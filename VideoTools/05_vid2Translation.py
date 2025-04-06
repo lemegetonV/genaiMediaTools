@@ -21,28 +21,47 @@ OPENAI_TTS_VOICE_ID = os.getenv("OPEN_AI_TTS_VOICE_ID")
 # print(torch.cuda.is_available())  # Should return True
 # print(torch.cuda.get_device_name(0))
 
-# Function to open Windows Explorer and select a video file
-def select_video():
+# Function to open a file dialog and select an input file (audio or video)
+def select_input_file():
     root = tk.Tk()
     root.withdraw()
-    video_file_path = filedialog.askopenfilename(initialdir=os.getcwd(), title="Select Video File", filetypes=(("Video files", "*.mp4;*.avi;*.mov"), ("All files", "*.*")))
-    if not video_file_path:
-        print("No video file selected.")
-        return None, None
+    file_path = filedialog.askopenfilename(
+        initialdir=os.getcwd(),
+        title="Select Audio or Video File",
+        filetypes=(
+            ("Media files", "*.mp4;*.avi;*.mov;*.mp3;*.wav;*.m4a"),
+            ("Video files", "*.mp4;*.avi;*.mov"),
+            ("Audio files", "*.mp3;*.wav;*.m4a"),
+            ("All files", "*.*")
+        )
+    )
+    if not file_path:
+        print("No file selected.")
+        return None, None, None
 
-    video_folder, video_file = os.path.split(video_file_path)
-    video_name = os.path.splitext(video_file)[0]
-    # new_folder = f"{str(1).zfill(4)}_{video_name}"
-    new_folder = f"{video_name}"
-    new_folder_path = os.path.join(video_folder, new_folder)
-    os.makedirs(new_folder_path, exist_ok=True)
-    shutil.copy(video_file_path, os.path.join(new_folder_path, "source_video.mp4"))
+    file_dir, file_name_ext = os.path.split(file_path)
+    file_name, file_ext = os.path.splitext(file_name_ext)
+    file_ext = file_ext.lower()
 
-    # Extract audio from video as MP3 using ffmpeg
-    audio_path = os.path.join(new_folder_path, "source_audio.mp3")
-    subprocess.run(['ffmpeg', '-i', video_file_path, '-vn', '-acodec', 'libmp3lame', '-y', audio_path], capture_output=True)
+    # Determine file type
+    video_extensions = ['.mp4', '.avi', '.mov']
+    audio_extensions = ['.mp3', '.wav', '.m4a']
+    
+    file_type = None
+    if file_ext in video_extensions:
+        file_type = 'video'
+    elif file_ext in audio_extensions:
+        file_type = 'audio'
+    else:
+        print(f"Unsupported file type: {file_ext}")
+        return None, None, None
 
-    return new_folder_path, audio_path
+    # Create output directory structure
+    output_base_dir = Path("OUTPUT") / "AUDIOVIDEO_2_TRANS"
+    output_folder_path = output_base_dir / file_name
+    output_folder_path.mkdir(parents=True, exist_ok=True)
+
+    return file_path, file_type, output_folder_path
 
 
 # Function to transcribe audio using Open AI
@@ -51,7 +70,9 @@ def transcribe_audio(audio_path, output_text_file):
     print("Transcribing using OpenAI Whisper API...")
 
     with open(audio_path, "rb") as audio_file:
-        response = client.audio.transcriptions.create(model="whisper-1", file=audio_file, response_format="text")
+        # response = client.audio.transcriptions.create(model="whisper-1", file=audio_file, response_format="text")
+        # response = client.audio.transcriptions.create(model="gpt-4o-transcribe", file=audio_file, response_format="text")
+        response = client.audio.transcriptions.create(model="gpt-4o-mini-transcribe", file=audio_file, response_format="text")
 
     with open(output_text_file, "w", encoding="utf-8") as f:
         f.write(response)
@@ -83,8 +104,8 @@ def translate_text(input_text_file, output_text_file):
 
     print(f"Translation saved as '{output_text_file}'")
 
-# Function to generate audio using Open AI TTS API
-def generate_audio_with_openai_tts(input_text_file, output_audio_file, voice='onyx', model='tts-1'):
+# Function to generate audio using Open AI
+def generate_audio_with_openai_tts(input_text_file, output_audio_file, voice):
     with open(input_text_file, "r", encoding="utf-8") as f:
         text = f.read()
 
@@ -94,7 +115,8 @@ def generate_audio_with_openai_tts(input_text_file, output_audio_file, voice='on
     # Generate speech using OpenAI's TTS API
     # Generate speech using OpenAI's TTS API
     response = client.audio.speech.create(
-        model="tts-1",
+        # model="tts-1",
+        model="gpt-4o-mini-tts",
         voice=voice,
         input=text,
     )
@@ -126,18 +148,65 @@ def generate_audio_with_elevenlabs(text_file, output_audio_file):
 
 # Main function
 def main():
-    folder_path, audio_path = select_video()
-    if not folder_path or not audio_path:
+    input_file_path, file_type, output_folder_path = select_input_file()
+    if not input_file_path:
         return
 
-    original_text_file = os.path.join(folder_path, "original_text.txt")
-    english_text_file = os.path.join(folder_path, "english_text.txt")
-    output_audio_file = os.path.join(folder_path, "english_audio.mp3")
+    # Define output file paths
+    audio_org_path = output_folder_path / "audio_org.mp3"
+    script_org_path = output_folder_path / "script_org.txt"
+    script_trans_path = output_folder_path / "script_trans.txt"
+    audio_trans_path = output_folder_path / "audio_trans.mp3"
 
-    transcribe_audio(audio_path, original_text_file)
-    translate_text(original_text_file, english_text_file)
-    generate_audio_with_openai_tts(english_text_file, output_audio_file, voice=OPENAI_TTS_VOICE_ID)
-    # generate_audio_with_elevenlabs(english_text_file, output_audio_file)
+    if file_type == 'video':
+        print(f"Processing video file: {input_file_path}")
+        video_org_path = output_folder_path / "video_org.mp4"
+        
+        # Copy original video
+        print(f"Copying video to {video_org_path}")
+        shutil.copy(input_file_path, video_org_path)
+
+        # Extract audio from video
+        print(f"Extracting audio to {audio_org_path}")
+        try:
+            subprocess.run(['ffmpeg', '-i', str(input_file_path), '-vn', '-acodec', 'libmp3lame', '-y', str(audio_org_path)],
+                           check=True, capture_output=True)
+        except subprocess.CalledProcessError as e:
+            print(f"Error extracting audio with ffmpeg: {e}")
+            print(f"Stderr: {e.stderr.decode()}")
+            return
+        except FileNotFoundError:
+            print("Error: ffmpeg not found. Please ensure ffmpeg is installed and in your system's PATH.")
+            return
+            
+        audio_path_for_transcription = audio_org_path
+
+    elif file_type == 'audio':
+        print(f"Processing audio file: {input_file_path}")
+        # Copy original audio
+        print(f"Copying audio to {audio_org_path}")
+        shutil.copy(input_file_path, audio_org_path)
+        audio_path_for_transcription = audio_org_path
+        
+    else:
+        # This case should ideally not be reached due to checks in select_input_file
+        print("Invalid file type determined.")
+        return
+
+    # --- Common Processing Steps ---
+    # Transcribe
+    transcribe_audio(str(audio_path_for_transcription), str(script_org_path))
+    
+    # Translate
+    translate_text(str(script_org_path), str(script_trans_path))
+    
+    # Generate Translated Audio
+    generate_audio_with_openai_tts(str(script_trans_path), str(audio_trans_path), voice=OPENAI_TTS_VOICE_ID)
+    # Or use ElevenLabs:
+    # generate_audio_with_elevenlabs(str(script_trans_path), str(audio_trans_path))
+
+    print("\nProcessing complete.")
+    print(f"Output files are located in: {output_folder_path}")
 
 
 if __name__ == "__main__":
