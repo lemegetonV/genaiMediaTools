@@ -30,7 +30,7 @@ def select_text_file():
     text_file_name = os.path.splitext(os.path.basename(text_file_path))[0]
     
     # Define the base output directory
-    base_output_dir = os.path.join("OUTPUT", "SCRIPT_2_SPEECH")
+    base_output_dir = os.path.join("OUTPUT", "AUDIO_GENERATED")
     # Create the specific folder for this file
     folder_path = os.path.join(base_output_dir, text_file_name)
     os.makedirs(folder_path, exist_ok=True)
@@ -106,20 +106,11 @@ def main():
     if not folder_path or not script_path or not output_audio_path:
         return
 
-    # Ask user for TTS service choice
-    while True:
-        choice = input("Do you want to use OpenAI or ElevenLabs to generate speech? Enter 1 for OpenAI, 2 for ElevenLabs: ")
-        if choice in ['1', '2']:
-            break
-        print("Invalid input. Please enter 1 or 2.")
+    # Generate audio using OpenAI
+    generate_audio_with_openai(script_path, output_audio_path, voice=OPENAI_TTS_VOICE_ID)
 
-    # Generate audio based on user choice
-    if choice == '1':
-        # Generate audio using OpenAI TTS
-        generate_audio_with_openai(script_path, output_audio_path, voice=OPENAI_TTS_VOICE_ID)
-    else:
-        # Generate audio using ElevenLabs
-        generate_audio_with_elevenlabs(script_path, output_audio_path)
+    # Generate audio using ElevenLabs
+    # generate_audio_with_elevenlabs(script_path, output_audio_path)
     
     print(f"Process completed. Files saved in {folder_path}")
 

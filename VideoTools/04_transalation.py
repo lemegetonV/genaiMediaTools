@@ -57,7 +57,7 @@ def select_input_file():
         return None, None, None
 
     # Create output directory structure
-    output_base_dir = Path("OUTPUT") / "AUDIOVIDEO_2_TRANS"
+    output_base_dir = Path("OUTPUT") / "AUDIO_TRANSLATED"
     output_folder_path = output_base_dir / file_name
     output_folder_path.mkdir(parents=True, exist_ok=True)
 
@@ -67,7 +67,7 @@ def select_input_file():
 # Function to transcribe audio using Open AI
 def transcribe_audio(audio_path, output_text_file):
     client = openai.OpenAI(api_key=OPENAI_API_KEY)
-    print("Transcribing using OpenAI Whisper API...")
+    print("Transcribing using OpenAI...")
 
     with open(audio_path, "rb") as audio_file:
         # response = client.audio.transcriptions.create(model="whisper-1", file=audio_file, response_format="text")
@@ -110,9 +110,8 @@ def generate_audio_with_openai_tts(input_text_file, output_audio_file, voice):
         text = f.read()
 
     client = openai.OpenAI(api_key=OPENAI_API_KEY)
-    print("Generating English audio using OpenAI TTS API...")
+    print("Generating English audio using OpenAI...")
 
-    # Generate speech using OpenAI's TTS API
     # Generate speech using OpenAI's TTS API
     response = client.audio.speech.create(
         # model="tts-1",
@@ -161,10 +160,25 @@ def main():
     if file_type == 'video':
         print(f"Processing video file: {input_file_path}")
         video_org_path = output_folder_path / "video_org.mp4"
+        video_org_muted_path = output_folder_path / "video_org_muted.mp4"
         
         # Copy original video
         print(f"Copying video to {video_org_path}")
         shutil.copy(input_file_path, video_org_path)
+
+        # Create muted video
+        print(f"Creating muted video {video_org_muted_path}")
+        try:
+             subprocess.run(['ffmpeg', '-i', str(input_file_path), '-an', '-c:v', 'copy', '-y', str(video_org_muted_path)],
+                           check=True, capture_output=True)
+        except subprocess.CalledProcessError as e:
+            print(f"Error creating muted video with ffmpeg: {e}")
+            print(f"Stderr: {e.stderr.decode()}")
+            # Decide if we should stop or continue if muting fails
+            # return # Uncomment to stop if muting fails
+        except FileNotFoundError:
+            print("Error: ffmpeg not found. Please ensure ffmpeg is installed and in your system's PATH.")
+            return
 
         # Extract audio from video
         print(f"Extracting audio to {audio_org_path}")
@@ -193,7 +207,6 @@ def main():
         print("Invalid file type determined.")
         return
 
-    # --- Common Processing Steps ---
     # Transcribe
     transcribe_audio(str(audio_path_for_transcription), str(script_org_path))
     
@@ -202,6 +215,7 @@ def main():
     
     # Generate Translated Audio
     generate_audio_with_openai_tts(str(script_trans_path), str(audio_trans_path), voice=OPENAI_TTS_VOICE_ID)
+    
     # Or use ElevenLabs:
     # generate_audio_with_elevenlabs(str(script_trans_path), str(audio_trans_path))
 

@@ -19,7 +19,7 @@ if not OPENAI_API_KEY:
     sys.exit(1)
 
 # --- Constants ---
-OUTPUT_BASE_DIR = "OUTPUT/AUDIOVIDEO_2_SCRIPT"
+OUTPUT_BASE_DIR = "OUTPUT/TRANSCRIPTIONS"
 VIDEO_EXTENSIONS = {".mp4", ".avi", ".mov", ".mkv", ".wmv", ".flv"}
 AUDIO_EXTENSIONS = {".mp3", ".wav", ".m4a", ".aac", ".ogg", ".flac"}
 COPIED_VIDEO_FILENAME = "video_org.mp4"
@@ -50,7 +50,7 @@ def transcribe_audio(audio_path, output_text_file):
     """Transcribes the audio file using OpenAI Whisper API."""
     try:
         client = openai.OpenAI(api_key=OPENAI_API_KEY)
-        print(f"Transcribing '{audio_path}' using OpenAI Whisper API...")
+        print(f"Transcribing '{audio_path}' using OpenAI...")
 
         with open(audio_path, "rb") as audio_file:
             # Use response_format="text" for plain text output
