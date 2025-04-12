@@ -3,3 +3,5 @@ python-dotenv
 tikapi
 openai
 google-genai
+moviepy
+Pillow
