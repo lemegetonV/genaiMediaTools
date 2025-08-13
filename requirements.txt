@@ -6,3 +6,6 @@ google-genai
 moviepy
 Pillow
 natsort
+snscrape
+yt-dlp
+tqdm

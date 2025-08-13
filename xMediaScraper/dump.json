@@ -1,0 +1,4157 @@
+[
+  {
+    "id": 1915572310121316852,
+    "id_str": "1915572310121316852",
+    "url": "https://x.com/george18kennedy/status/1915572310121316852",
+    "date": "2025-04-25 01:03:23+00:00",
+    "user": {
+      "id": 1635460206527229953,
+      "id_str": "1635460206527229953",
+      "url": "https://x.com/george18kennedy",
+      "username": "george18kennedy",
+      "displayname": "Hello George",
+      "rawDescription": "You awake, thinking for yourself, is their greatest fear. https://t.co/WCTEenopmV",
+      "created": "2023-03-14 01:58:11+00:00",
+      "followersCount": 18064,
+      "friendsCount": 207,
+      "statusesCount": 1257,
+      "favouritesCount": 4078,
+      "listedCount": 11,
+      "mediaCount": 414,
+      "location": "The Present.",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1635460410458492928/XABlH_TX_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1635460206527229953/1678759512",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://truthsocial.com/@georgekennedy",
+          "text": "truthsocial.com/@georgekennedy",
+          "tcourl": "https://t.co/WCTEenopmV"
+        },
+        {
+          "url": "https://rumble.com/user/Georgekennedy90",
+          "text": "rumble.com/user/Georgeken…",
+          "tcourl": "https://t.co/99ZG9qTgJe"
+        }
+      ],
+      "pinnedIds": [
+        1846897326939341077
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Friendly reminder: \n\nThe Diddy trial starts on 5:5 in NYC.\n\nWhen does a bird sing? https://t.co/LXsW1B0Uhs",
+    "replyCount": 23,
+    "retweetCount": 190,
+    "likeCount": 505,
+    "quoteCount": 15,
+    "bookmarkedCount": 76,
+    "conversationId": 1915572310121316852,
+    "conversationIdStr": "1915572310121316852",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GpV63QdWMAAtFga.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/GpV63QlXwAAFTP-.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 15687,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918725878692913626,
+    "id_str": "1918725878692913626",
+    "url": "https://x.com/TheToonKn1ght/status/1918725878692913626",
+    "date": "2025-05-03 17:54:32+00:00",
+    "user": {
+      "id": 1307426542872653835,
+      "id_str": "1307426542872653835",
+      "url": "https://x.com/TheToonKn1ght",
+      "username": "TheToonKn1ght",
+      "displayname": "TheToonKn1ght",
+      "rawDescription": "Voice Actor 👈 Anime, Manga, Games, Toons & Memes. Dream is Free, Hustle Sold Separately. https://t.co/HHHzEiTsCt 👉 @TheeToonStation",
+      "created": "2020-09-19 21:09:26+00:00",
+      "followersCount": 2810,
+      "friendsCount": 2768,
+      "statusesCount": 33472,
+      "favouritesCount": 73757,
+      "listedCount": 58,
+      "mediaCount": 8861,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1811759980644564992/Xd2mf6a3_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1307426542872653835/1721704136",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "http://linktr.ee/TheToonKn1ght",
+          "text": "linktr.ee/TheToonKn1ght",
+          "tcourl": "https://t.co/HHHzEiTsCt"
+        }
+      ],
+      "pinnedIds": [
+        1825719466778411418
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Me patiently awaiting the Diddy Trial cuz shi finna be crazy https://t.co/Lc363U1ZCR",
+    "replyCount": 5,
+    "retweetCount": 4,
+    "likeCount": 25,
+    "quoteCount": 0,
+    "bookmarkedCount": 4,
+    "conversationId": 1918725878692913626,
+    "conversationIdStr": "1918725878692913626",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [],
+      "videos": [
+        {
+          "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1918725824821297152/img/us42ncTNl4CIVsHL.jpg",
+          "variants": [
+            {
+              "contentType": "video/mp4",
+              "bitrate": 632000,
+              "url": "https://video.twimg.com/amplify_video/1918725824821297152/vid/avc1/320x568/WcyD9SWA_0ANcGcc.mp4?tag=16"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 950000,
+              "url": "https://video.twimg.com/amplify_video/1918725824821297152/vid/avc1/480x852/ff2b-cktq5Ht_GIf.mp4?tag=16"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/amplify_video/1918725824821297152/vid/avc1/720x1280/Mh3FnyPSh5WUoxQj.mp4?tag=16"
+            }
+          ],
+          "duration": 10284,
+          "views": null
+        }
+      ],
+      "animated": []
+    },
+    "viewCount": 2321,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918033900099510621,
+    "id_str": "1918033900099510621",
+    "url": "https://x.com/nicksortor/status/1918033900099510621",
+    "date": "2025-05-01 20:04:51+00:00",
+    "user": {
+      "id": 2162812627,
+      "id_str": "2162812627",
+      "url": "https://x.com/nicksortor",
+      "username": "nicksortor",
+      "displayname": "Nick Sortor",
+      "rawDescription": "On-scene covering stories MSM won’t. | Seen on @TuckerCarlson Tonight, Fox News, Newsmax, Timcast, etc. • #EastPalestineOH #Maui #WNC • media@sortor.us",
+      "created": "2013-10-29 13:00:21+00:00",
+      "followersCount": 957757,
+      "friendsCount": 18436,
+      "statusesCount": 32253,
+      "favouritesCount": 51768,
+      "listedCount": 3294,
+      "mediaCount": 7135,
+      "location": "KY | TX | DC 🇺🇸",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1696728176670490626/syt21Drf_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2162812627/1722574679",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "http://sortor.us/x",
+          "text": "sortor.us/x",
+          "tcourl": "https://t.co/HZRuyTRdE9"
+        }
+      ],
+      "pinnedIds": [
+        1889540504687194375
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "🚨 #BREAKING: Sean ‘Diddy’ Combs has officially REJECTED a plea deal with the federal government on his charges of racketeering and s*x traff*cking\n\nHis trial is now set to begin in just days.\n\nThis trial could very well be used to EXPOSE other Epstein-type p*dos in Hollywood. https://t.co/3w0KYz6yOu",
+    "replyCount": 1369,
+    "retweetCount": 5620,
+    "likeCount": 23503,
+    "quoteCount": 264,
+    "bookmarkedCount": 591,
+    "conversationId": 1918033900099510621,
+    "conversationIdStr": "1918033900099510621",
+    "hashtags": [
+      "BREAKING"
+    ],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp45qrZXIAEkqN4.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 559136,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918278702032375896,
+    "id_str": "1918278702032375896",
+    "url": "https://x.com/RipsBeard107/status/1918278702032375896",
+    "date": "2025-05-02 12:17:37+00:00",
+    "user": {
+      "id": 1594018192422309888,
+      "id_str": "1594018192422309888",
+      "url": "https://x.com/RipsBeard107",
+      "username": "RipsBeard107",
+      "displayname": "Rip Cord 🇺🇲",
+      "rawDescription": "Knowing is half the battle...",
+      "created": "2022-11-19 17:22:17+00:00",
+      "followersCount": 11255,
+      "friendsCount": 2361,
+      "statusesCount": 16228,
+      "favouritesCount": 35630,
+      "listedCount": 6,
+      "mediaCount": 3265,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1912372621527732224/aZvHNsC2_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1594018192422309888/1745043984",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1917223253468213694
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "One of the things that Anons do is recognize patterns. Sometimes they have meaning other times not so much. \n\nWhat is the pattern I  have been seeing recently with the upcoming Diddy Trial?\n\nThe trial is to begin on: May 5th or 5/5 or 5:5 or 55, depending how you see it. This is how I have been seeing it....\n\nSo Sean Diddy Combs, [who is 55 years old], trial begins on 5/5 in New York. \n\nRemember when Q told us to watch New York City [NYC] with a 5:5?\n\nAlso there is a May 5th Q Delta which  shows a Red Punisher Skull, [Diddy used Red Rooms in his sex parties].\n\nAnd of course we have the ultimate Q Post #55:\n\nLook to Twitter:\nExactly this: \"My fellow Americans, the Storm is upon us..\nGod bless.\n\nNow do any of these patterns have meaning? This I cannot tell you, but I do know that it has my attention. Let's see what happens on 5/5...",
+    "replyCount": 52,
+    "retweetCount": 340,
+    "likeCount": 989,
+    "quoteCount": 19,
+    "bookmarkedCount": 179,
+    "conversationId": 1918278702032375896,
+    "conversationIdStr": "1918278702032375896",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp8YUGSWEAEdIcP.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 36418,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "sourceUrl": "http://twitter.com/download/android",
+    "sourceLabel": "Twitter for Android",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1919034160288575845,
+    "id_str": "1919034160288575845",
+    "url": "https://x.com/rebeccalee29034/status/1919034160288575845",
+    "date": "2025-05-04 14:19:32+00:00",
+    "user": {
+      "id": 1692243505215856641,
+      "id_str": "1692243505215856641",
+      "url": "https://x.com/rebeccalee29034",
+      "username": "rebeccalee29034",
+      "displayname": "ESPERANZA_SQUIDFISH_*",
+      "rawDescription": "Im a God fearing woman. A patriot . It's always been about the children.  Don't show up in my DMs I'm not looking for a man or a woman.",
+      "created": "2023-08-17 18:35:45+00:00",
+      "followersCount": 450,
+      "friendsCount": 205,
+      "statusesCount": 13607,
+      "favouritesCount": 13598,
+      "listedCount": 0,
+      "mediaCount": 174,
+      "location": "Arizona, USA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1853911440043716608/BqYTqWHL_normal.jpg",
+      "profileBannerUrl": null,
+      "protected": null,
+      "verified": false,
+      "blue": false,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Tomorrow is set to be lit\nDiddy trial begins.  What could go right https://t.co/7dCPeW2wJD",
+    "replyCount": 0,
+    "retweetCount": 0,
+    "likeCount": 0,
+    "quoteCount": 0,
+    "bookmarkedCount": 0,
+    "conversationId": 1919034160288575845,
+    "conversationIdStr": "1919034160288575845",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GqHHZjsawAAAYDF.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 2,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "sourceUrl": "http://twitter.com/download/android",
+    "sourceLabel": "Twitter for Android",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918752179180970382,
+    "id_str": "1918752179180970382",
+    "url": "https://x.com/xerias_x/status/1918752179180970382",
+    "date": "2025-05-03 19:39:02+00:00",
+    "user": {
+      "id": 1773975712552116225,
+      "id_str": "1773975712552116225",
+      "url": "https://x.com/xerias_x",
+      "username": "xerias_x",
+      "displayname": "𝕏erias",
+      "rawDescription": "God ✟ 1st | If it's trending, I'll meme it | Video Edits + AI | Political Satire | SaveTheChildren | MAGA 🇺🇸 | Creative @GreenFrogLabs | CPP: @Higgsfield_AI",
+      "created": "2024-03-30 07:29:27+00:00",
+      "followersCount": 6971,
+      "friendsCount": 1860,
+      "statusesCount": 18057,
+      "favouritesCount": 53815,
+      "listedCount": 6,
+      "mediaCount": 5267,
+      "location": "United States",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1896738645903908864/oRNZ6m2g_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1773975712552116225/1740431089",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1915173406812897745
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "The Diddy Trial begins in 2 days on May 5th\n\nExpose everything 🔥 https://t.co/DvuEzxdQNo",
+    "replyCount": 17,
+    "retweetCount": 52,
+    "likeCount": 222,
+    "quoteCount": 1,
+    "bookmarkedCount": 14,
+    "conversationId": 1918752179180970382,
+    "conversationIdStr": "1918752179180970382",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GqDG8G7bIAABCQD.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 13863,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "sourceUrl": "http://twitter.com/download/android",
+    "sourceLabel": "Twitter for Android",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1908746605487849679,
+    "id_str": "1908746605487849679",
+    "url": "https://x.com/USATODAY/status/1908746605487849679",
+    "date": "2025-04-06 05:00:28+00:00",
+    "user": {
+      "id": 15754281,
+      "id_str": "15754281",
+      "url": "https://x.com/USATODAY",
+      "username": "USATODAY",
+      "displayname": "USA TODAY",
+      "rawDescription": "The pulse of the nation in the palm of your hand.",
+      "created": "2008-08-06 19:55:31+00:00",
+      "followersCount": 5101671,
+      "friendsCount": 912,
+      "statusesCount": 456118,
+      "favouritesCount": 3520,
+      "listedCount": 36734,
+      "mediaCount": 75629,
+      "location": "All across the nation",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1633789628728631296/Pi_gZqjL_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/15754281/1736201838",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": "Business",
+      "descriptionLinks": [
+        {
+          "url": "http://www.usatoday.com",
+          "text": "usatoday.com",
+          "tcourl": "https://t.co/yNKGMNvztv"
+        }
+      ],
+      "pinnedIds": [],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Ahead of Diddy's trial, federal prosecutors have charged him with more crimes. https://t.co/0OttiFt9ti https://t.co/Wu2VFvRJiV",
+    "replyCount": 9,
+    "retweetCount": 5,
+    "likeCount": 18,
+    "quoteCount": 1,
+    "bookmarkedCount": 7,
+    "conversationId": 1908746605487849679,
+    "conversationIdStr": "1908746605487849679",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [
+      {
+        "url": "https://tinyurl.com/bdhzcwym",
+        "text": "tinyurl.com/bdhzcwym",
+        "tcourl": "https://t.co/0OttiFt9ti"
+      }
+    ],
+    "media": {
+      "photos": [],
+      "videos": [
+        {
+          "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1908746555407908864/pu/img/bZe3tBUMtJ8lGoOC.jpg",
+          "variants": [
+            {
+              "contentType": "video/mp4",
+              "bitrate": 632000,
+              "url": "https://video.twimg.com/ext_tw_video/1908746555407908864/pu/vid/avc1/320x568/BrI-tDy1mMafS4kH.mp4?tag=12"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 950000,
+              "url": "https://video.twimg.com/ext_tw_video/1908746555407908864/pu/vid/avc1/480x852/uxEfUsI-TFR2Ya1i.mp4?tag=12"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/ext_tw_video/1908746555407908864/pu/vid/avc1/608x1080/0khPZbRDhfZbIbtS.mp4?tag=12"
+            }
+          ],
+          "duration": 74048,
+          "views": null
+        }
+      ],
+      "animated": []
+    },
+    "viewCount": 12618,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"https://trueanthem.com\" rel=\"nofollow\">trueanthem_pro2</a>",
+    "sourceUrl": "https://trueanthem.com",
+    "sourceLabel": "trueanthem_pro2",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918523400449835222,
+    "id_str": "1918523400449835222",
+    "url": "https://x.com/kellyannelu/status/1918523400449835222",
+    "date": "2025-05-03 04:29:57+00:00",
+    "user": {
+      "id": 1688265437857898497,
+      "id_str": "1688265437857898497",
+      "url": "https://x.com/kellyannelu",
+      "username": "kellyannelu",
+      "displayname": "kellyannlu17🇺🇸🐸⭐️⭐️⭐️",
+      "rawDescription": "*Elected committeewoman* God loving patriot- FREE J6ERS! #GodWins #TrumpWon #WWG1WGA #SaveTheChildren https://t.co/6nCQXX0Hc3",
+      "created": "2023-08-06 19:07:13+00:00",
+      "followersCount": 7571,
+      "friendsCount": 3333,
+      "statusesCount": 26666,
+      "favouritesCount": 18626,
+      "listedCount": 4,
+      "mediaCount": 5433,
+      "location": "Pennsylvania, USA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1917273957780070400/t72i9gRh_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1688265437857898497/1746317446",
+      "protected": null,
+      "verified": false,
+      "blue": false,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.rightforbucks.com",
+          "text": "rightforbucks.com",
+          "tcourl": "https://t.co/6nCQXX0Hc3"
+        },
+        {
+          "url": "https://www.princeforjustice.com",
+          "text": "princeforjustice.com",
+          "tcourl": "https://t.co/prJmTmh7ia"
+        }
+      ],
+      "pinnedIds": [
+        1917716089359810580
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Trump posted an image of him as the Pope in May…Pope having a terrible May\n\nWhat if [Pope] is Diddy?\nDiddy has dressed up as the pope a few\nTimes \nDiddy trial is 5/05\nDiddy having a terrible May? \nThose who backed him will be pushed into the LIGHT&gt;\nDark to LIGHT.\nTRUTH. https://t.co/Ju5xr8xx4G",
+    "replyCount": 17,
+    "retweetCount": 75,
+    "likeCount": 250,
+    "quoteCount": 12,
+    "bookmarkedCount": 43,
+    "conversationId": 1918523400449835222,
+    "conversationIdStr": "1918523400449835222",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp_23T8XYAAZTeI.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/Gp_23TwWUAATfDe.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/Gp_23T5XoAAehDA.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/Gp_23TxWEAATCoD.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 8890,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918490763907760277,
+    "id_str": "1918490763907760277",
+    "url": "https://x.com/hollywood2pt0/status/1918490763907760277",
+    "date": "2025-05-03 02:20:16+00:00",
+    "user": {
+      "id": 1666602017312104449,
+      "id_str": "1666602017312104449",
+      "url": "https://x.com/hollywood2pt0",
+      "username": "hollywood2pt0",
+      "displayname": "Jewely💎Blue",
+      "rawDescription": "WWG1WGA *EO#13848* Watch my Great Awakening Videos on Bitchute, Rumble & TikTok under👉🏼 JewelyBlue",
+      "created": "2023-06-08 00:24:41+00:00",
+      "followersCount": 8829,
+      "friendsCount": 2883,
+      "statusesCount": 43195,
+      "favouritesCount": 29349,
+      "listedCount": 18,
+      "mediaCount": 2675,
+      "location": "Earth",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1865657580921442304/NKnM7aMV_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1666602017312104449/1687141029",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1918490763907760277
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "📽️New Video\nDiddy Trial 5/5/25‼️ PUBLIC PRESENCE REQUIRED‼️\n\nWe can't let [them] 'Epstein' this trial",
+    "replyCount": 0,
+    "retweetCount": 3,
+    "likeCount": 12,
+    "quoteCount": 2,
+    "bookmarkedCount": 2,
+    "conversationId": 1918490763907760277,
+    "conversationIdStr": "1918490763907760277",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [],
+      "videos": [
+        {
+          "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1918489678396751872/img/wRmdH_MbzPMVX42Y.jpg",
+          "variants": [
+            {
+              "contentType": "video/mp4",
+              "bitrate": 288000,
+              "url": "https://video.twimg.com/amplify_video/1918489678396751872/vid/avc1/480x270/aOZLHSXbQS3DKmDc.mp4?tag=16"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 832000,
+              "url": "https://video.twimg.com/amplify_video/1918489678396751872/vid/avc1/640x360/Ua5TCMJ3XfN_7TZY.mp4?tag=16"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/amplify_video/1918489678396751872/vid/avc1/1280x720/sq-aagqTh2JpK6De.mp4?tag=16"
+            }
+          ],
+          "duration": 191750,
+          "views": null
+        }
+      ],
+      "animated": []
+    },
+    "viewCount": 1557,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918853573456044262,
+    "id_str": "1918853573456044262",
+    "url": "https://x.com/SaltyBeach/status/1918853573456044262",
+    "date": "2025-05-04 02:21:57+00:00",
+    "user": {
+      "id": 1584684597660553218,
+      "id_str": "1584684597660553218",
+      "url": "https://x.com/SaltyBeach",
+      "username": "SaltyBeach",
+      "displayname": "SaltyBeachMAGAgirl ❤️",
+      "rawDescription": "MAGA all the way!  Just a unvaccinated chick who loves to question the science, live the truth, & point out lies.  With a secret nerd crush on Elon & Trump ❤️",
+      "created": "2022-10-24 23:14:09+00:00",
+      "followersCount": 259,
+      "friendsCount": 488,
+      "statusesCount": 471,
+      "favouritesCount": 544,
+      "listedCount": 4,
+      "mediaCount": 76,
+      "location": "Florida",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1584684703755411456/34En6Zqi_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1584684597660553218/1738618271",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1913565698313298094
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "@_TruthZone_ Diddy trial starts Monday.... https://t.co/mgcFVbHDz6",
+    "replyCount": 1,
+    "retweetCount": 11,
+    "likeCount": 133,
+    "quoteCount": 0,
+    "bookmarkedCount": 1,
+    "conversationId": 1918767124870295642,
+    "conversationIdStr": "1918767124870295642",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [
+      {
+        "id": 1609620531774464001,
+        "id_str": "1609620531774464001",
+        "username": "_TruthZone_",
+        "displayname": "Truth Seeker",
+        "_type": "snscrape.modules.twitter.UserRef"
+      }
+    ],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GqEjKDIWwAAzBYP.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 4846,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": 1918767124870295642,
+    "inReplyToTweetIdStr": "1918767124870295642",
+    "inReplyToUser": {
+      "id": 1609620531774464001,
+      "id_str": "1609620531774464001",
+      "username": "_TruthZone_",
+      "displayname": "Truth Seeker",
+      "_type": "snscrape.modules.twitter.UserRef"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "sourceUrl": "http://twitter.com/download/android",
+    "sourceLabel": "Twitter for Android",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918088898745377056,
+    "id_str": "1918088898745377056",
+    "url": "https://x.com/johnrich/status/1918088898745377056",
+    "date": "2025-05-01 23:43:24+00:00",
+    "user": {
+      "id": 16869718,
+      "id_str": "16869718",
+      "url": "https://x.com/johnrich",
+      "username": "johnrich",
+      "displayname": "John Rich🇺🇸",
+      "rawDescription": "1/2 of @bigandrich Founder of @redneckriviera Whiskey @oldglorybank @rnrbarnash I support @foldsofhonor @stjude https://t.co/atSgqw9JZW",
+      "created": "2008-10-20 16:22:15+00:00",
+      "followersCount": 1409851,
+      "friendsCount": 815,
+      "statusesCount": 31575,
+      "favouritesCount": 4841,
+      "listedCount": 2701,
+      "mediaCount": 3405,
+      "location": "Nashville, TN",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1784252718506209280/uF1g9rVg_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/16869718/1717249255",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "http://Redneckriviera.com",
+          "text": "Redneckriviera.com",
+          "tcourl": "https://t.co/atSgqw9JZW"
+        },
+        {
+          "url": "http://www.REDNECKRIVIERA.COM",
+          "text": "REDNECKRIVIERA.COM",
+          "tcourl": "https://t.co/HC7t8JQVjE"
+        }
+      ],
+      "pinnedIds": [
+        1917369426753774009
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Remember the time Sean Combs threatened Justin Bieber on live TV? (PS: The Diddy trial starts this month) https://t.co/poDVeBU396",
+    "replyCount": 152,
+    "retweetCount": 853,
+    "likeCount": 2930,
+    "quoteCount": 28,
+    "bookmarkedCount": 359,
+    "conversationId": 1918088898745377056,
+    "conversationIdStr": "1918088898745377056",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [],
+      "videos": [
+        {
+          "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1918088871482445824/pu/img/EpOWJ4F8BGbvau-W.jpg",
+          "variants": [
+            {
+              "contentType": "video/mp4",
+              "bitrate": 632000,
+              "url": "https://video.twimg.com/ext_tw_video/1918088871482445824/pu/vid/avc1/320x568/_EOKr4Y3-0bv7v7q.mp4?tag=12"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 950000,
+              "url": "https://video.twimg.com/ext_tw_video/1918088871482445824/pu/vid/avc1/480x852/51JRU0wslSrh8_YC.mp4?tag=12"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/ext_tw_video/1918088871482445824/pu/vid/avc1/720x1280/-KqLRjUR6ke6nc6D.mp4?tag=12"
+            }
+          ],
+          "duration": 19195,
+          "views": null
+        }
+      ],
+      "animated": []
+    },
+    "viewCount": 99212,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918847343002288634,
+    "id_str": "1918847343002288634",
+    "url": "https://x.com/JackStr42679640/status/1918847343002288634",
+    "date": "2025-05-04 01:57:11+00:00",
+    "user": {
+      "id": 1310767622351323137,
+      "id_str": "1310767622351323137",
+      "url": "https://x.com/JackStr42679640",
+      "username": "JackStr42679640",
+      "displayname": "Jack Straw",
+      "rawDescription": "",
+      "created": "2020-09-29 02:26:18+00:00",
+      "followersCount": 314221,
+      "friendsCount": 2626,
+      "statusesCount": 129009,
+      "favouritesCount": 18431,
+      "listedCount": 900,
+      "mediaCount": 55673,
+      "location": "North Dakota, USA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1883828821289541632/mGc_WY-M_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1310767622351323137/1728470081",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1653371851618533377
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "One of the things that Anons do is recognize patterns. \n\nWhat is the pattern recently with the upcoming Diddy Trial?\n\nThe trial is to begin on: May 5th or 5/5 or 5:5 or 55, depending how you see it...\n\nSo Sean Diddy Combs, [who is 55 years old], trial begins on 5/5 in New York. \n\nRemember when Q told us to watch New York City [NYC] with a 5:5?\n\nAlso there is a May 5th Q Delta which  shows a Red Punisher Skull, [Diddy used Red Rooms in his sex parties].\n\nAnd of course we have the ultimate Q Post #55:\n\nLook to Twitter:\nExactly this: \"My fellow Americans, the Storm is upon us..\nGod bless.\n\nLet's see what happens on 5/5\n\nWar Correspondent",
+    "replyCount": 7,
+    "retweetCount": 92,
+    "likeCount": 197,
+    "quoteCount": 6,
+    "bookmarkedCount": 39,
+    "conversationId": 1918847343002288634,
+    "conversationIdStr": "1918847343002288634",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GqEdZQObEAAW7Co.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 10589,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1915611774394536050,
+    "id_str": "1915611774394536050",
+    "url": "https://x.com/Vision4theBlind/status/1915611774394536050",
+    "date": "2025-04-25 03:40:12+00:00",
+    "user": {
+      "id": 339241927,
+      "id_str": "339241927",
+      "url": "https://x.com/Vision4theBlind",
+      "username": "Vision4theBlind",
+      "displayname": "Vision4theBlind",
+      "rawDescription": "“It's easier to fool people than to convince them that they have been fooled.” | Backup: @Vizion4theBlind",
+      "created": "2011-07-20 20:09:10+00:00",
+      "followersCount": 105689,
+      "friendsCount": 684,
+      "statusesCount": 13362,
+      "favouritesCount": 10665,
+      "listedCount": 415,
+      "mediaCount": 7968,
+      "location": "United States ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1605009706388525056/60-CBmWw_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/339241927/1670116244",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Shannon Sharpe's bodyguard said he met the woman suing him for sexual assault at a Diddy party when she was 17\n\nNot coincidentally the Diddy trial starts on May 5\n\nThis is all scripted https://t.co/RdblLdZOEg",
+    "replyCount": 6,
+    "retweetCount": 25,
+    "likeCount": 103,
+    "quoteCount": 1,
+    "bookmarkedCount": 11,
+    "conversationId": 1915611774394536050,
+    "conversationIdStr": "1915611774394536050",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GpWeEijWkAAgXs3.png"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 7660,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1919028870960853470,
+    "id_str": "1919028870960853470",
+    "url": "https://x.com/UPMHPM/status/1919028870960853470",
+    "date": "2025-05-04 13:58:31+00:00",
+    "user": {
+      "id": 402699614,
+      "id_str": "402699614",
+      "url": "https://x.com/UPMHPM",
+      "username": "UPMHPM",
+      "displayname": "Pops",
+      "rawDescription": "Husband, Pops, Papa, Patriot. #Maga #Patriot Warriors #TWGRP   No nudes. No rude, crude or merchandising DMs! Yes I know what's coming!",
+      "created": "2011-11-01 13:08:51+00:00",
+      "followersCount": 33585,
+      "friendsCount": 28780,
+      "statusesCount": 400913,
+      "favouritesCount": 66237,
+      "listedCount": 7,
+      "mediaCount": 8638,
+      "location": "Ohio, USA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1778411556138561536/ImfcqRSE_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/402699614/1737569664",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://docs.google.com/spreadsheets/d/1kVQwX9l9HJ5F76x05ic_YnU_Z5yiVS96LbzAOP66EzA/edit?gid=1828781",
+          "text": "docs.google.com/spreadsheets/d…",
+          "tcourl": "https://t.co/WlX9SYsGBE"
+        }
+      ],
+      "pinnedIds": [
+        1129349762321387520
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "The Sean \"Diddy\" Combs trial starts tomorrow!  Evidence includes hotel surveillance video, interviews of 50 witnesses and obtained evidence from over 120 cellphones, laptops and other electronic devices as well as guns, ammunition and large amounts of baby oil and lubricant recovered from his homes! 👀🔥\nThis page will be updated as the trial goes on. 👇🏻🧐Stay tuned folks! 🍿 #NCSWIC \nhttps://t.co/vY0MaP2J9V",
+    "replyCount": 1,
+    "retweetCount": 5,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "bookmarkedCount": 0,
+    "conversationId": 1919028870960853470,
+    "conversationIdStr": "1919028870960853470",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [
+      {
+        "url": "https://www.newsnationnow.com/crime/diddy-trial-cheat-sheet/",
+        "text": "newsnationnow.com/crime/diddy-tr…",
+        "tcourl": "https://t.co/vY0MaP2J9V"
+      }
+    ],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GqHClWfXcAA49TT.png"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 135,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918880493304459697,
+    "id_str": "1918880493304459697",
+    "url": "https://x.com/XRP_DigiGold/status/1918880493304459697",
+    "date": "2025-05-04 04:08:55+00:00",
+    "user": {
+      "id": 1471338116728299523,
+      "id_str": "1471338116728299523",
+      "url": "https://x.com/XRP_DigiGold",
+      "username": "XRP_DigiGold",
+      "displayname": "💙 X_R_P 🦋 V_R_A 💙",
+      "rawDescription": "🦋Crypto (DYOR) Musician🎸🎙 🌫 X-NRL 🏉🐉🐇🐬🌫 Patriot 🧠🇦🇺🦘✝️",
+      "created": "2021-12-16 04:35:35+00:00",
+      "followersCount": 43865,
+      "friendsCount": 2183,
+      "statusesCount": 33274,
+      "favouritesCount": 140576,
+      "listedCount": 96,
+      "mediaCount": 21047,
+      "location": "Australia",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1637328502176518145/CiKyM3mB_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1471338116728299523/1706232557",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1776889390255812620
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "🟦🟨🌔🟨🟦\n\n5/5 = Diddy Trial ☠️ \n55 Q Drop : The Storm is Upon us. ⛈️ \n5/5-6 = I believe 🤴 KING CHARLES DIES ☀️ \n5/14 = TRUMP (77 YRS + 700 DAYS OLD) = 777\n5/14 = 7YRS SINCE TRUMP MOVED THE EMBASSY to Jerusalem \n5/14 = 1948 State of Israel 🇮🇱 \n\n🟨🟨🎰🟨🟨 https://t.co/gWGsG3ITLm",
+    "replyCount": 11,
+    "retweetCount": 7,
+    "likeCount": 27,
+    "quoteCount": 0,
+    "bookmarkedCount": 15,
+    "conversationId": 1918880493304459697,
+    "conversationIdStr": "1918880493304459697",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [],
+      "videos": [
+        {
+          "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1918880204912816128/img/2UmEN2yY3SBSCW6m.jpg",
+          "variants": [
+            {
+              "contentType": "video/mp4",
+              "bitrate": 288000,
+              "url": "https://video.twimg.com/amplify_video/1918880204912816128/vid/avc1/378x270/Mr8cjmxsyYlz51SW.mp4?tag=16"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 832000,
+              "url": "https://video.twimg.com/amplify_video/1918880204912816128/vid/avc1/504x360/2rgNv2qPq_whuHvm.mp4?tag=16"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/amplify_video/1918880204912816128/vid/avc1/1010x720/wKQAPmhbJWFqRS2M.mp4?tag=16"
+            }
+          ],
+          "duration": 185906,
+          "views": null
+        }
+      ],
+      "animated": []
+    },
+    "viewCount": 3356,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1917928136756338805,
+    "id_str": "1917928136756338805",
+    "url": "https://x.com/USBornNRaised/status/1917928136756338805",
+    "date": "2025-05-01 13:04:35+00:00",
+    "user": {
+      "id": 32598110,
+      "id_str": "32598110",
+      "url": "https://x.com/USBornNRaised",
+      "username": "USBornNRaised",
+      "displayname": "Tired of being politically correct",
+      "rawDescription": "Veteran. I love the USA 🇺🇸 “X\" is the only place for real news. I repost interesting things.",
+      "created": "2009-04-17 21:29:10+00:00",
+      "followersCount": 61548,
+      "friendsCount": 10599,
+      "statusesCount": 631008,
+      "favouritesCount": 466182,
+      "listedCount": 4,
+      "mediaCount": 54901,
+      "location": "United States",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1433455572419059714/UP46eGN4_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/32598110/1737492781",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1706141726123921568
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "@IfindRetards I can Guarantee now that the Diddy trial is set to go forward he will retire from playing basketball. https://t.co/SlYzvckqYr",
+    "replyCount": 4,
+    "retweetCount": 11,
+    "likeCount": 85,
+    "quoteCount": 2,
+    "bookmarkedCount": 5,
+    "conversationId": 1917906425839497655,
+    "conversationIdStr": "1917906425839497655",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [
+      {
+        "id": 1872569731829604352,
+        "id_str": "1872569731829604352",
+        "username": "IfindRetards",
+        "displayname": "Retard Finder",
+        "_type": "snscrape.modules.twitter.UserRef"
+      }
+    ],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp3Zef8XwAAzaNy.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 6108,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": 1917906425839497655,
+    "inReplyToTweetIdStr": "1917906425839497655",
+    "inReplyToUser": {
+      "id": 1872569731829604352,
+      "id_str": "1872569731829604352",
+      "username": "IfindRetards",
+      "displayname": "Retard Finder",
+      "_type": "snscrape.modules.twitter.UserRef"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1914440764538433632,
+    "id_str": "1914440764538433632",
+    "url": "https://x.com/PeggyDodson/status/1914440764538433632",
+    "date": "2025-04-21 22:07:01+00:00",
+    "user": {
+      "id": 346628612,
+      "id_str": "346628612",
+      "url": "https://x.com/PeggyDodson",
+      "username": "PeggyDodson",
+      "displayname": "Peggy Dodson",
+      "rawDescription": "I am President of  UBCTV, an urban broadcast multi media company.  I am a professional journalist and executive producer. check us out on Roku. UBCTV",
+      "created": "2011-08-01 15:44:40+00:00",
+      "followersCount": 83630,
+      "friendsCount": 9198,
+      "statusesCount": 124616,
+      "favouritesCount": 168051,
+      "listedCount": 93,
+      "mediaCount": 3028,
+      "location": "New York City and the World!",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1469359649354825728/TtDU6r-r_normal.jpg",
+      "profileBannerUrl": null,
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "http://www.ubctvnetwork.com",
+          "text": "ubctvnetwork.com",
+          "tcourl": "https://t.co/cT2yJXir82"
+        }
+      ],
+      "pinnedIds": [],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "WITH ALL THATS HAPPENING YESTERDAY AND TODAY WITH COUMO BEING REFERRED TO THE DOJ FOR HIS COVID SCANDAL! I HAD TO COME ON FOR A QUICK UPDATE. AND COMING UP IN MAY IS THE DIDDY TRIAL! THINGS ARE GETTING HOT AND ABOUT TO GET REAL!! https://t.co/NHzlt1OaTp",
+    "replyCount": 99,
+    "retweetCount": 372,
+    "likeCount": 1648,
+    "quoteCount": 23,
+    "bookmarkedCount": 74,
+    "conversationId": 1914440764538433632,
+    "conversationIdStr": "1914440764538433632",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [],
+      "videos": [
+        {
+          "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1914440515384172544/pu/img/zPtCw4xg4kpuDMgc.jpg",
+          "variants": [
+            {
+              "contentType": "video/mp4",
+              "bitrate": 632000,
+              "url": "https://video.twimg.com/ext_tw_video/1914440515384172544/pu/vid/avc1/320x568/CrbUP9XrJKY3NoUg.mp4?tag=12"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 950000,
+              "url": "https://video.twimg.com/ext_tw_video/1914440515384172544/pu/vid/avc1/480x852/7J8enqq-jQIEsR1b.mp4?tag=12"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/ext_tw_video/1914440515384172544/pu/vid/avc1/720x1280/c8UGlcUajiM3MOUF.mp4?tag=12"
+            }
+          ],
+          "duration": 339789,
+          "views": null
+        }
+      ],
+      "animated": []
+    },
+    "viewCount": 64660,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": {
+      "id": "01a9a39529b27f36",
+      "fullName": "Manhattan, NY",
+      "name": "Manhattan",
+      "type": "city",
+      "country": "United States",
+      "countryCode": "US"
+    },
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "sourceUrl": "http://twitter.com/download/android",
+    "sourceLabel": "Twitter for Android",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1913345387806474351,
+    "id_str": "1913345387806474351",
+    "url": "https://x.com/RealAF_Patriot/status/1913345387806474351",
+    "date": "2025-04-18 21:34:23+00:00",
+    "user": {
+      "id": 1615962976778952705,
+      "id_str": "1615962976778952705",
+      "url": "https://x.com/RealAF_Patriot",
+      "username": "RealAF_Patriot",
+      "displayname": "RealAF Patriot",
+      "rawDescription": "Citizen Journalist | Video Creator | Podcaster",
+      "created": "2023-01-19 06:43:25+00:00",
+      "followersCount": 78186,
+      "friendsCount": 3573,
+      "statusesCount": 2107,
+      "favouritesCount": 1877,
+      "listedCount": 129,
+      "mediaCount": 1821,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1708660032437448704/ZzA9lRfy_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1615962976778952705/1744944766",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://Rumble.com/RealAFPatriot",
+          "text": "Rumble.com/RealAFPatriot",
+          "tcourl": "https://t.co/ejZ1GoXrNO"
+        }
+      ],
+      "pinnedIds": [
+        1918006530869166525
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "DIDDY TRIAL TO BEGIN IN 17 DAYS‼️ https://t.co/ZJj99fbNm3",
+    "replyCount": 29,
+    "retweetCount": 206,
+    "likeCount": 659,
+    "quoteCount": 14,
+    "bookmarkedCount": 36,
+    "conversationId": 1913345387806474351,
+    "conversationIdStr": "1913345387806474351",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Go2RfMQXkAAcFdu.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 19953,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918006530869166525,
+    "id_str": "1918006530869166525",
+    "url": "https://x.com/RealAF_Patriot/status/1918006530869166525",
+    "date": "2025-05-01 18:16:06+00:00",
+    "user": {
+      "id": 1615962976778952705,
+      "id_str": "1615962976778952705",
+      "url": "https://x.com/RealAF_Patriot",
+      "username": "RealAF_Patriot",
+      "displayname": "RealAF Patriot",
+      "rawDescription": "Citizen Journalist | Video Creator | Podcaster",
+      "created": "2023-01-19 06:43:25+00:00",
+      "followersCount": 78186,
+      "friendsCount": 3573,
+      "statusesCount": 2107,
+      "favouritesCount": 1877,
+      "listedCount": 129,
+      "mediaCount": 1821,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1708660032437448704/ZzA9lRfy_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1615962976778952705/1744944766",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://Rumble.com/RealAFPatriot",
+          "text": "Rumble.com/RealAFPatriot",
+          "tcourl": "https://t.co/ejZ1GoXrNO"
+        }
+      ],
+      "pinnedIds": [
+        1918006530869166525
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "MUSIC IS ABOUT TO STOP‼️\n\nT-minus 4 days until Diddy Trial https://t.co/zSA6sOfpKj",
+    "replyCount": 296,
+    "retweetCount": 2206,
+    "likeCount": 5427,
+    "quoteCount": 154,
+    "bookmarkedCount": 606,
+    "conversationId": 1918006530869166525,
+    "conversationIdStr": "1918006530869166525",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [],
+      "videos": [
+        {
+          "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1918006460258103296/img/vvzqF9KdAbnZNBXn.jpg",
+          "variants": [
+            {
+              "contentType": "video/mp4",
+              "bitrate": 632000,
+              "url": "https://video.twimg.com/amplify_video/1918006460258103296/vid/avc1/320x322/8ijzjMD6we9XgVIk.mp4?tag=16"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 950000,
+              "url": "https://video.twimg.com/amplify_video/1918006460258103296/vid/avc1/480x484/1M0NkZhOsmVt-b6y.mp4?tag=16"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/amplify_video/1918006460258103296/vid/avc1/720x728/bP3u2fk8wFiZKYKi.mp4?tag=16"
+            }
+          ],
+          "duration": 154782,
+          "views": null
+        }
+      ],
+      "animated": []
+    },
+    "viewCount": 173273,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1917933977249419337,
+    "id_str": "1917933977249419337",
+    "url": "https://x.com/PillarsStrategy/status/1917933977249419337",
+    "date": "2025-05-01 13:27:48+00:00",
+    "user": {
+      "id": 1294297777133031430,
+      "id_str": "1294297777133031430",
+      "url": "https://x.com/PillarsStrategy",
+      "username": "PillarsStrategy",
+      "displayname": "Pillars & Strategies",
+      "rawDescription": "Kingdom Intelligence | INFJ | Speak into the Matrix \"No!\" Stand and expect to see Righteous Rule! 📳Watch KingdomTV: https://t.co/1DG7Yd6kXd",
+      "created": "2020-08-14 15:40:21+00:00",
+      "followersCount": 3802,
+      "friendsCount": 333,
+      "statusesCount": 9333,
+      "favouritesCount": 6117,
+      "listedCount": 1,
+      "mediaCount": 1591,
+      "location": "Heavenly Places",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1825944248216162304/64Eh_2S9_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1294297777133031430/1725323675",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "http://PillarsAndStrategies.net",
+          "text": "PillarsAndStrategies.net",
+          "tcourl": "https://t.co/1DG7Yd6kXd"
+        },
+        {
+          "url": "http://www.pillarsandstrategies.net",
+          "text": "pillarsandstrategies.net",
+          "tcourl": "https://t.co/e196Q2MoKo"
+        }
+      ],
+      "pinnedIds": [
+        1828912864859480073
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Important Dates?🤔\n\nMay 5th - P.Diddy jury selection\n\nMay 12th - P.Diddy trial starts\n\nMay 12-14 - Blackouts: Pattern analysis indicates Northern Europe is next during this window of time for Scandinavia and Baltic states\n\nMay 21-23 - Blackouts in Central European grid nodes with each phase increasing in intensity, with the UK scheduled as the final test zone before the continental-scale event in Q3 (this represents STRATCOM's culmination phase - a coordinated 72-hour grid shutdown across multiple European nations simultaneously) per agent M.\n\nOther weird activity:  Israel fires, James O'Keefe cryptic message about going dark.\n\nCredit: @NotOpCue and @agent_mock threads 👇🏾\nhttps://t.co/uZ3Nw6GIFU",
+    "replyCount": 6,
+    "retweetCount": 84,
+    "likeCount": 329,
+    "quoteCount": 4,
+    "bookmarkedCount": 154,
+    "conversationId": 1917905564262424922,
+    "conversationIdStr": "1917905564262424922",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [
+      {
+        "id": 1519385353660080129,
+        "id_str": "1519385353660080129",
+        "username": "Prolotario1",
+        "displayname": "ȺɾìҽӀ",
+        "_type": "snscrape.modules.twitter.UserRef"
+      }
+    ],
+    "links": [
+      {
+        "url": "https://x.com/NotOpCue/status/1916850116125733250",
+        "text": "x.com/NotOpCue/statu…",
+        "tcourl": "https://t.co/uZ3Nw6GIFU"
+      }
+    ],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp3ewrEXYAA8dud.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 18554,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": 1917905564262424922,
+    "inReplyToTweetIdStr": "1917905564262424922",
+    "inReplyToUser": {
+      "id": 1519385353660080129,
+      "id_str": "1519385353660080129",
+      "username": "Prolotario1",
+      "displayname": "ȺɾìҽӀ",
+      "_type": "snscrape.modules.twitter.UserRef"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918359534218682579,
+    "id_str": "1918359534218682579",
+    "url": "https://x.com/NewsTreason/status/1918359534218682579",
+    "date": "2025-05-02 17:38:49+00:00",
+    "user": {
+      "id": 1600032910551261185,
+      "id_str": "1600032910551261185",
+      "url": "https://x.com/NewsTreason",
+      "username": "NewsTreason",
+      "displayname": "NewsTreason Channel 17",
+      "rawDescription": "Make Truth Free Again. Because FAKE NEWS IS TREASON. Channel 17 Podcast on X & Rumble",
+      "created": "2022-12-06 07:42:55+00:00",
+      "followersCount": 54150,
+      "friendsCount": 862,
+      "statusesCount": 13228,
+      "favouritesCount": 1190,
+      "listedCount": 127,
+      "mediaCount": 2191,
+      "location": "REPUBLIC of The United States",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1671915132237037570/Lwt5QyL2_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1600032910551261185/1743052235",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://linktr.ee/newstreason",
+          "text": "linktr.ee/newstreason",
+          "tcourl": "https://t.co/rQDmCEkELm"
+        }
+      ],
+      "pinnedIds": [
+        1917729988419203518
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Interesting that the Weinstein retrial is back in the spotlight, just days before the Diddy trial begins and all while the public demand for the Epstein files continues to heat up. \n\nAlmost like it was planned that way…\n\nhttps://t.co/D9kYUUucc1 https://t.co/BsEk35Fr58",
+    "replyCount": 9,
+    "retweetCount": 92,
+    "likeCount": 224,
+    "quoteCount": 3,
+    "bookmarkedCount": 9,
+    "conversationId": 1918359534218682579,
+    "conversationIdStr": "1918359534218682579",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [
+      {
+        "url": "https://nypost.com/2025/05/02/us-news/weinstein-accuser-miriam-haley-storms-out-of-courtroom-in-tears-in-the-middle-of-grilling-dont-tell-me-i-wasnt-raped-by-that-f-king-a-hole/",
+        "text": "nypost.com/2025/05/02/us-…",
+        "tcourl": "https://t.co/D9kYUUucc1"
+      }
+    ],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp9h05oXMAAscO1.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 5059,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918351243208282334,
+    "id_str": "1918351243208282334",
+    "url": "https://x.com/NewYorker/status/1918351243208282334",
+    "date": "2025-05-02 17:05:52+00:00",
+    "user": {
+      "id": 14677919,
+      "id_str": "14677919",
+      "url": "https://x.com/NewYorker",
+      "username": "NewYorker",
+      "displayname": "The New Yorker",
+      "rawDescription": "Unparalleled reporting and commentary on politics and culture, plus humor and cartoons, fiction and poetry. Get our Daily newsletter: https://t.co/CW0Z2jGCyB",
+      "created": "2008-05-06 19:36:33+00:00",
+      "followersCount": 8511245,
+      "friendsCount": 394,
+      "statusesCount": 180989,
+      "favouritesCount": 1835,
+      "listedCount": 58212,
+      "mediaCount": 47131,
+      "location": "New York, NY",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1888969697078431744/T3MUHNH2_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/14677919/1739201920",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": "Business",
+      "descriptionLinks": [
+        {
+          "url": "http://nyer.cm/gtI6pVM",
+          "text": "nyer.cm/gtI6pVM",
+          "tcourl": "https://t.co/CW0Z2jGCyB"
+        },
+        {
+          "url": "http://www.newyorker.com",
+          "text": "newyorker.com",
+          "tcourl": "https://t.co/HaON4yWi3O"
+        }
+      ],
+      "pinnedIds": [
+        1916893227602317363
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "The lawyer Brian Steel helped Young Thug walk free after a two-year murder trial. In April, Steel joined the high-profile legal team of Sean Combs, better known as Diddy, who has been charged with sex trafficking, racketeering, and various violent crimes. https://t.co/dm9kmXlHrV https://t.co/6lh5WTmOnt",
+    "replyCount": 3,
+    "retweetCount": 7,
+    "likeCount": 15,
+    "quoteCount": 1,
+    "bookmarkedCount": 2,
+    "conversationId": 1918351243208282334,
+    "conversationIdStr": "1918351243208282334",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [
+      {
+        "url": "https://newyorkermag.visitlink.me/8iE2B5",
+        "text": "newyorkermag.visitlink.me/8iE2B5",
+        "tcourl": "https://t.co/dm9kmXlHrV"
+      }
+    ],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp9aSipbMAAr2pk.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 19784,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"https://dashsocial.com\" rel=\"nofollow\">Dash Social</a>",
+    "sourceUrl": "https://dashsocial.com",
+    "sourceLabel": "Dash Social",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1916932045407768629,
+    "id_str": "1916932045407768629",
+    "url": "https://x.com/sthrngrlab/status/1916932045407768629",
+    "date": "2025-04-28 19:06:29+00:00",
+    "user": {
+      "id": 942500066941652992,
+      "id_str": "942500066941652992",
+      "url": "https://x.com/sthrngrlab",
+      "username": "sthrngrlab",
+      "displayname": "TraitorHunter78",
+      "rawDescription": "",
+      "created": "2017-12-17 21:01:41+00:00",
+      "followersCount": 1159,
+      "friendsCount": 756,
+      "statusesCount": 3383,
+      "favouritesCount": 2759,
+      "listedCount": 1,
+      "mediaCount": 690,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1902895572908118017/N3oLM5lf_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/942500066941652992/1742520644",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Timber….\n\nTD Jakes is out just before Diddy trial…. https://t.co/oIrxF4Al6f",
+    "replyCount": 8,
+    "retweetCount": 50,
+    "likeCount": 145,
+    "quoteCount": 5,
+    "bookmarkedCount": 18,
+    "conversationId": 1916932045407768629,
+    "conversationIdStr": "1916932045407768629",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GppPiUpXcAAbNaV.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/GppPiUcWEAA381e.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 28357,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+    "sourceUrl": "http://twitter.com/#!/download/ipad",
+    "sourceLabel": "Twitter for iPad",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918071909075333582,
+    "id_str": "1918071909075333582",
+    "url": "https://x.com/Qushtha/status/1918071909075333582",
+    "date": "2025-05-01 22:35:53+00:00",
+    "user": {
+      "id": 1917046646891851776,
+      "id_str": "1917046646891851776",
+      "url": "https://x.com/Qushtha",
+      "username": "Qushtha",
+      "displayname": "ܩܘܫܬܐ",
+      "rawDescription": ".ܝܫܘܥ ܡܫܝܚܐ ܗܘ ܩܘܫܬܐ ܘܚܝܐ",
+      "created": "2025-04-29 02:42:04+00:00",
+      "followersCount": 605,
+      "friendsCount": 33,
+      "statusesCount": 267,
+      "favouritesCount": 453,
+      "listedCount": 1,
+      "mediaCount": 86,
+      "location": "ܐܪܥܐ ܕܡܘܠܟܢܐ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1917052633392500736/kDWKjla3_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1917046646891851776/1745995419",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1918071879287427410
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "May 5th\n\nP. Diddy trial is in effect on this day. May 5, 2025.\n\nP. Diddy as the head of the snake of the music industry will bring down the entire industry. \n\nWho is also involved? \n\nHollywood, politicians, professional sports and more.\n\n202-456-1414.\n\nNow who's phone number is this?\n\nTry calling it.\n\nJust kidding. \n\nLook below.",
+    "replyCount": 9,
+    "retweetCount": 23,
+    "likeCount": 168,
+    "quoteCount": 2,
+    "bookmarkedCount": 15,
+    "conversationId": 1918071879287427410,
+    "conversationIdStr": "1918071879287427410",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp5ZHHPXEAEN2lj.png"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 11734,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": 1918071905933832588,
+    "inReplyToTweetIdStr": "1918071905933832588",
+    "inReplyToUser": {
+      "id": 1917046646891851776,
+      "id_str": "1917046646891851776",
+      "username": "Qushtha",
+      "displayname": "ܩܘܫܬܐ",
+      "_type": "snscrape.modules.twitter.UserRef"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918247496339603909,
+    "id_str": "1918247496339603909",
+    "url": "https://x.com/TinHat_Cat/status/1918247496339603909",
+    "date": "2025-05-02 10:13:37+00:00",
+    "user": {
+      "id": 1644060454447112192,
+      "id_str": "1644060454447112192",
+      "url": "https://x.com/TinHat_Cat",
+      "username": "TinHat_Cat",
+      "displayname": "TinHatCat $THC",
+      "rawDescription": "The Conspiracy Brand of Crypto. 👁🕳 Built on Sonic $THC $S",
+      "created": "2023-04-06 19:32:21+00:00",
+      "followersCount": 6372,
+      "friendsCount": 812,
+      "statusesCount": 23517,
+      "favouritesCount": 45392,
+      "listedCount": 34,
+      "mediaCount": 8643,
+      "location": "gulag ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1895927106921435136/Ob6zPLa__normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1644060454447112192/1734609693",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "http://tinhatcat.com",
+          "text": "tinhatcat.com",
+          "tcourl": "https://t.co/yQIvPd2Lnl"
+        }
+      ],
+      "pinnedIds": [
+        1896979479219798146
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Diddy Trial is just a few days away https://t.co/sx5wlzIKiz",
+    "replyCount": 0,
+    "retweetCount": 3,
+    "likeCount": 14,
+    "quoteCount": 0,
+    "bookmarkedCount": 0,
+    "conversationId": 1918247496339603909,
+    "conversationIdStr": "1918247496339603909",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp74eMgWsAAOnaV.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 337,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "sourceUrl": "http://twitter.com/download/android",
+    "sourceLabel": "Twitter for Android",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1909534179152609403,
+    "id_str": "1909534179152609403",
+    "url": "https://x.com/MarioNawfal/status/1909534179152609403",
+    "date": "2025-04-08 09:10:00+00:00",
+    "user": {
+      "id": 1319287761048723458,
+      "id_str": "1319287761048723458",
+      "url": "https://x.com/MarioNawfal",
+      "username": "MarioNawfal",
+      "displayname": "Mario Nawfal",
+      "rawDescription": "Largest Show on X | Founder @ibcgroupio | Investor 600+ Startups",
+      "created": "2020-10-22 14:42:25+00:00",
+      "followersCount": 2219217,
+      "friendsCount": 47141,
+      "statusesCount": 131264,
+      "favouritesCount": 152361,
+      "listedCount": 9499,
+      "mediaCount": 99628,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1670905743619268609/pYItlWat_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1319287761048723458/1743760560",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://roundtable.live",
+          "text": "roundtable.live",
+          "tcourl": "https://t.co/Lru9VAixI8"
+        }
+      ],
+      "pinnedIds": [
+        1918037711245676617
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "🇺🇸CASSIE VS. DIDDY: BOMBSHELL TESTIMONY COMING IN SEX TRAFFICKING CASE\n\nCassie Ventura is set to testify under her real name next month in Diddy’s federal sex trafficking and racketeering trial.\n\nShe says she was abused for years, forced to find sex workers for drug-fueled “Freak-Offs” that prosecutors now say were part of a criminal operation.\n\nDiddy denies everything — but Cassie’s testimony is shaping up to be a key moment in the case.\n\nSource: NY Post",
+    "replyCount": 51,
+    "retweetCount": 33,
+    "likeCount": 164,
+    "quoteCount": 1,
+    "bookmarkedCount": 11,
+    "conversationId": 1909534179152609403,
+    "conversationIdStr": "1909534179152609403",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gn_9VBsXoAAvWSR.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 65815,
+    "retweetedTweet": null,
+    "quotedTweet": {
+      "id": 1908872318505615660,
+      "id_str": "1908872318505615660",
+      "url": "https://x.com/MarioNawfal/status/1908872318505615660",
+      "date": "2025-04-06 13:20:00+00:00",
+      "user": {
+        "id": 1319287761048723458,
+        "id_str": "1319287761048723458",
+        "url": "https://x.com/MarioNawfal",
+        "username": "MarioNawfal",
+        "displayname": "Mario Nawfal",
+        "rawDescription": "Largest Show on X | Founder @ibcgroupio | Investor 600+ Startups",
+        "created": "2020-10-22 14:42:25+00:00",
+        "followersCount": 2219217,
+        "friendsCount": 47141,
+        "statusesCount": 131264,
+        "favouritesCount": 152361,
+        "listedCount": 9499,
+        "mediaCount": 99628,
+        "location": "",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1670905743619268609/pYItlWat_normal.jpg",
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1319287761048723458/1743760560",
+        "protected": null,
+        "verified": false,
+        "blue": true,
+        "blueType": null,
+        "descriptionLinks": [
+          {
+            "url": "https://roundtable.live",
+            "text": "roundtable.live",
+            "tcourl": "https://t.co/Lru9VAixI8"
+          }
+        ],
+        "pinnedIds": [
+          1918037711245676617
+        ],
+        "_type": "snscrape.modules.twitter.User"
+      },
+      "lang": "en",
+      "rawContent": "🚨🇺🇸DIDDY HIT WITH NEW SEX TRAFFICKING CHARGES AS MAY TRIAL NEARS\n\nDiddy faces 2 new federal charges—sex trafficking and transporting for prostitution—linked to a third victim, bringing the total to 5 criminal counts ahead of his May 5 trial in Manhattan.\n\nThe latest charges stem from alleged conduct between 2021 and 2024. His legal team calls the accusations “consensual” relationships with former girlfriends—not crimes.\n\nDiddy, already indicted after high-profile raids, has pleaded not guilty. He remains jailed, as over a dozen civil suits accusing him of abuse and assault also mount.\n\nSource: USA Today",
+      "replyCount": 55,
+      "retweetCount": 61,
+      "likeCount": 201,
+      "quoteCount": 7,
+      "bookmarkedCount": 8,
+      "conversationId": 1908872318505615660,
+      "conversationIdStr": "1908872318505615660",
+      "hashtags": [],
+      "cashtags": [],
+      "mentionedUsers": [],
+      "links": [],
+      "media": {
+        "photos": [
+          {
+            "url": "https://pbs.twimg.com/media/Gn2nX4eW4AAsu_Z.jpg"
+          }
+        ],
+        "videos": [],
+        "animated": []
+      },
+      "viewCount": 141685,
+      "retweetedTweet": null,
+      "quotedTweet": null,
+      "place": null,
+      "coordinates": null,
+      "inReplyToTweetId": null,
+      "inReplyToTweetIdStr": null,
+      "inReplyToUser": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "sourceUrl": "http://twitter.com",
+      "sourceLabel": "Twitter Web Client",
+      "card": null,
+      "possibly_sensitive": false,
+      "_type": "snscrape.modules.twitter.Tweet"
+    },
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "sourceUrl": "http://twitter.com",
+    "sourceLabel": "Twitter Web Client",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1908872318505615660,
+    "id_str": "1908872318505615660",
+    "url": "https://x.com/MarioNawfal/status/1908872318505615660",
+    "date": "2025-04-06 13:20:00+00:00",
+    "user": {
+      "id": 1319287761048723458,
+      "id_str": "1319287761048723458",
+      "url": "https://x.com/MarioNawfal",
+      "username": "MarioNawfal",
+      "displayname": "Mario Nawfal",
+      "rawDescription": "Largest Show on X | Founder @ibcgroupio | Investor 600+ Startups",
+      "created": "2020-10-22 14:42:25+00:00",
+      "followersCount": 2219217,
+      "friendsCount": 47141,
+      "statusesCount": 131264,
+      "favouritesCount": 152361,
+      "listedCount": 9499,
+      "mediaCount": 99628,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1670905743619268609/pYItlWat_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1319287761048723458/1743760560",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://roundtable.live",
+          "text": "roundtable.live",
+          "tcourl": "https://t.co/Lru9VAixI8"
+        }
+      ],
+      "pinnedIds": [
+        1918037711245676617
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "🚨🇺🇸DIDDY HIT WITH NEW SEX TRAFFICKING CHARGES AS MAY TRIAL NEARS\n\nDiddy faces 2 new federal charges—sex trafficking and transporting for prostitution—linked to a third victim, bringing the total to 5 criminal counts ahead of his May 5 trial in Manhattan.\n\nThe latest charges stem from alleged conduct between 2021 and 2024. His legal team calls the accusations “consensual” relationships with former girlfriends—not crimes.\n\nDiddy, already indicted after high-profile raids, has pleaded not guilty. He remains jailed, as over a dozen civil suits accusing him of abuse and assault also mount.\n\nSource: USA Today",
+    "replyCount": 55,
+    "retweetCount": 61,
+    "likeCount": 201,
+    "quoteCount": 7,
+    "bookmarkedCount": 8,
+    "conversationId": 1908872318505615660,
+    "conversationIdStr": "1908872318505615660",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gn2nX4eW4AAsu_Z.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 141685,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "sourceUrl": "http://twitter.com",
+    "sourceLabel": "Twitter Web Client",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1917267052286431354,
+    "id_str": "1917267052286431354",
+    "url": "https://x.com/Jadegreen14541/status/1917267052286431354",
+    "date": "2025-04-29 17:17:41+00:00",
+    "user": {
+      "id": 1833747064645136384,
+      "id_str": "1833747064645136384",
+      "url": "https://x.com/Jadegreen14541",
+      "username": "Jadegreen14541",
+      "displayname": "GalwayGirl",
+      "rawDescription": "Bartender. former teacher and restaurant manager of 25 yrs. independent voter .animal lover. poster of  memes NO DMS",
+      "created": "2024-09-11 05:59:13+00:00",
+      "followersCount": 2541,
+      "friendsCount": 4419,
+      "statusesCount": 28432,
+      "favouritesCount": 33666,
+      "listedCount": 1,
+      "mediaCount": 3402,
+      "location": "United States",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916885692489011201/094iVifB_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1833747064645136384/1745856059",
+      "protected": null,
+      "verified": false,
+      "blue": false,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1910919589422072199
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "@Jgt58maga Also diddy trial starts 5/5 . Gonna be a wild Cinco de mayo https://t.co/smO7DCC2mh",
+    "replyCount": 0,
+    "retweetCount": 4,
+    "likeCount": 41,
+    "quoteCount": 0,
+    "bookmarkedCount": 3,
+    "conversationId": 1917265443095486650,
+    "conversationIdStr": "1917265443095486650",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [
+      {
+        "id": 1572374049837256704,
+        "id_str": "1572374049837256704",
+        "username": "Jgt58maga",
+        "displayname": "⚖️The Justice Cometh⚖️",
+        "_type": "snscrape.modules.twitter.UserRef"
+      }
+    ],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GpuAOU8WYAALZTT.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 1098,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": 1917265443095486650,
+    "inReplyToTweetIdStr": "1917265443095486650",
+    "inReplyToUser": {
+      "id": 1572374049837256704,
+      "id_str": "1572374049837256704",
+      "username": "Jgt58maga",
+      "displayname": "⚖️The Justice Cometh⚖️",
+      "_type": "snscrape.modules.twitter.UserRef"
+    },
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "sourceUrl": "http://twitter.com/download/android",
+    "sourceLabel": "Twitter for Android",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1917738335050637766,
+    "id_str": "1917738335050637766",
+    "url": "https://x.com/ABC7NY/status/1917738335050637766",
+    "date": "2025-05-01 00:30:23+00:00",
+    "user": {
+      "id": 16715398,
+      "id_str": "16715398",
+      "url": "https://x.com/ABC7NY",
+      "username": "ABC7NY",
+      "displayname": "Eyewitness News",
+      "rawDescription": "New York's #1 news, Channel 7 Eyewitness News. WABC-TV. Comments & photos shared here or using #abc7NY could be used on any ABC platforms.",
+      "created": "2008-10-13 02:33:46+00:00",
+      "followersCount": 778394,
+      "friendsCount": 27284,
+      "statusesCount": 465827,
+      "favouritesCount": 7387,
+      "listedCount": 3882,
+      "mediaCount": 279824,
+      "location": "New York City",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/910523413705510913/8qZNWUOQ_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/16715398/1502890618",
+      "protected": null,
+      "verified": false,
+      "blue": false,
+      "blueType": "Business",
+      "descriptionLinks": [
+        {
+          "url": "http://abc7ny.com",
+          "text": "abc7ny.com",
+          "tcourl": "https://t.co/jfhEMrUXM9"
+        }
+      ],
+      "pinnedIds": [],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Judge approves Sean 'Diddy' Combs' request to wear non-prison clothing for trial https://t.co/K765ZzptwI https://t.co/3RdB8SZb0i",
+    "replyCount": 1,
+    "retweetCount": 2,
+    "likeCount": 4,
+    "quoteCount": 1,
+    "bookmarkedCount": 0,
+    "conversationId": 1917738335050637766,
+    "conversationIdStr": "1917738335050637766",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [
+      {
+        "url": "http://7ny.tv/3RHrZEY",
+        "text": "7ny.tv/3RHrZEY",
+        "tcourl": "https://t.co/K765ZzptwI"
+      }
+    ],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp0s2lyXMAAJolt.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 2961,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"https://trueanthem.com\" rel=\"nofollow\">trueanthem_pro2</a>",
+    "sourceUrl": "https://trueanthem.com",
+    "sourceLabel": "trueanthem_pro2",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1909308329836298717,
+    "id_str": "1909308329836298717",
+    "url": "https://x.com/PopBase/status/1909308329836298717",
+    "date": "2025-04-07 18:12:33+00:00",
+    "user": {
+      "id": 1138458175663988738,
+      "id_str": "1138458175663988738",
+      "url": "https://x.com/PopBase",
+      "username": "PopBase",
+      "displayname": "Pop Base",
+      "rawDescription": "Pop Base is your best source for all pop culture related entertainment, news, award show coverage, chart updates, statistics and more. | email@popbase.tv",
+      "created": "2019-06-11 14:49:15+00:00",
+      "followersCount": 1994267,
+      "friendsCount": 2512,
+      "statusesCount": 72868,
+      "favouritesCount": 3343,
+      "listedCount": 4035,
+      "mediaCount": 58152,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1268086791443230737/BRGz4AiW_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1138458175663988738/1585520513",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Cassie Ventura is set to testify against Sean 'Diddy' Combs in his upcoming sex trafficking trial, taking place on May 5th. https://t.co/dUdq2KDIWf",
+    "replyCount": 342,
+    "retweetCount": 2162,
+    "likeCount": 39125,
+    "quoteCount": 598,
+    "bookmarkedCount": 1355,
+    "conversationId": 1909308329836298717,
+    "conversationIdStr": "1909308329836298717",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gn85WbWWsAEXdxP.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/Gn85Zt2WMAA2-Hg.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 5161578,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1914712185097400768,
+    "id_str": "1914712185097400768",
+    "url": "https://x.com/solanalabscare/status/1914712185097400768",
+    "date": "2025-04-22 16:05:33+00:00",
+    "user": {
+      "id": 1882078176203231233,
+      "id_str": "1882078176203231233",
+      "url": "https://x.com/solanalabscare",
+      "username": "solanalabscare",
+      "displayname": "Solana Care",
+      "rawDescription": "Blockchain cares about the world",
+      "created": "2025-01-22 14:50:08+00:00",
+      "followersCount": 194,
+      "friendsCount": 713,
+      "statusesCount": 641,
+      "favouritesCount": 1307,
+      "listedCount": 1,
+      "mediaCount": 59,
+      "location": "Liberland",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1918787673524703232/NDdatTef_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1882078176203231233/1746309605",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1916977817654378842
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "#SBF Sam Bankman-Fried and Sean #Diddy Combs have all the time they want to talk about #crypto, #Bitcoin, #Solana and https://t.co/gGA1vgrJAj , they're probably monitoring the price of #BTC and #SOL everyday 😶 https://t.co/OD72nq29rS",
+    "replyCount": 0,
+    "retweetCount": 1,
+    "likeCount": 7,
+    "quoteCount": 0,
+    "bookmarkedCount": 1,
+    "conversationId": 1914712185097400768,
+    "conversationIdStr": "1914712185097400768",
+    "hashtags": [
+      "SBF",
+      "Diddy",
+      "crypto",
+      "Bitcoin",
+      "Solana",
+      "BTC",
+      "SOL"
+    ],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [
+      {
+        "url": "http://pump.fun",
+        "text": "pump.fun",
+        "tcourl": "https://t.co/gGA1vgrJAj"
+      }
+    ],
+    "media": {
+      "photos": [],
+      "videos": [
+        {
+          "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1914710870552092672/img/rkMaTd3LDWbzWtgq.jpg",
+          "variants": [
+            {
+              "contentType": "video/mp4",
+              "bitrate": 632000,
+              "url": "https://video.twimg.com/amplify_video/1914710870552092672/vid/avc1/320x568/ZQljzhizYruKLUU4.mp4?tag=16"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 950000,
+              "url": "https://video.twimg.com/amplify_video/1914710870552092672/vid/avc1/480x852/k7XD50F4Vf4hqPSq.mp4?tag=16"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/amplify_video/1914710870552092672/vid/avc1/720x1280/oHJrcKOhKCSJts9X.mp4?tag=16"
+            }
+          ],
+          "duration": 58560,
+          "views": null
+        }
+      ],
+      "animated": []
+    },
+    "viewCount": 414,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918480765781729640,
+    "id_str": "1918480765781729640",
+    "url": "https://x.com/RattleSlimSnake/status/1918480765781729640",
+    "date": "2025-05-03 01:40:32+00:00",
+    "user": {
+      "id": 1643608485827837952,
+      "id_str": "1643608485827837952",
+      "url": "https://x.com/RattleSlimSnake",
+      "username": "RattleSlimSnake",
+      "displayname": "Rattlesnake Slim II",
+      "rawDescription": "Gen X, US Navy Vet (CV-43), Retired, California Refugee\nAdmirer,Collector and creator of memes.\nOriginal Acct. banned 04/05/23 \nNO DMs",
+      "created": "2023-04-05 13:36:44+00:00",
+      "followersCount": 1916,
+      "friendsCount": 2027,
+      "statusesCount": 16942,
+      "favouritesCount": 130493,
+      "listedCount": 3,
+      "mediaCount": 7828,
+      "location": "Oklahoma USA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1858159844831752192/w6RO5MM2_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1643608485827837952/1680718622",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1793322953943216479
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "@ToscaAusten Tina Knowles is trying to get ahead of the PR nightmare that comes for her son-in-law, Jay Z, before Diddy's trial starts on Monday. https://t.co/JlwLxinF3L",
+    "replyCount": 0,
+    "retweetCount": 1,
+    "likeCount": 2,
+    "quoteCount": 0,
+    "bookmarkedCount": 0,
+    "conversationId": 1918156088836305269,
+    "conversationIdStr": "1918156088836305269",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [
+      {
+        "id": 4769536303,
+        "id_str": "4769536303",
+        "username": "ToscaAusten",
+        "displayname": "Tosca Austen",
+        "_type": "snscrape.modules.twitter.UserRef"
+      }
+    ],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp_QFImXcAA9bjm.png"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 288,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": 1918156088836305269,
+    "inReplyToTweetIdStr": "1918156088836305269",
+    "inReplyToUser": {
+      "id": 4769536303,
+      "id_str": "4769536303",
+      "username": "ToscaAusten",
+      "displayname": "Tosca Austen",
+      "_type": "snscrape.modules.twitter.UserRef"
+    },
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1911089427205824848,
+    "id_str": "1911089427205824848",
+    "url": "https://x.com/MarioNawfal/status/1911089427205824848",
+    "date": "2025-04-12 16:10:00+00:00",
+    "user": {
+      "id": 1319287761048723458,
+      "id_str": "1319287761048723458",
+      "url": "https://x.com/MarioNawfal",
+      "username": "MarioNawfal",
+      "displayname": "Mario Nawfal",
+      "rawDescription": "Largest Show on X | Founder @ibcgroupio | Investor 600+ Startups",
+      "created": "2020-10-22 14:42:25+00:00",
+      "followersCount": 2219217,
+      "friendsCount": 47141,
+      "statusesCount": 131264,
+      "favouritesCount": 152361,
+      "listedCount": 9499,
+      "mediaCount": 99628,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1670905743619268609/pYItlWat_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1319287761048723458/1743760560",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://roundtable.live",
+          "text": "roundtable.live",
+          "tcourl": "https://t.co/Lru9VAixI8"
+        }
+      ],
+      "pinnedIds": [
+        1918037711245676617
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "🚨🇺🇸DIDDY TRIAL NEARS: LAWYERS TO SCREEN JURORS ON SEX TRAFFICKING, DRUGS, AND VIOLENCE\n\nAs Diddy faces 5 federal charges, including sex trafficking and racketeering, his legal team is preparing to vet jurors on their views of kidnapping, drugs, forced labor, and more.\n\nJury selection begins May 5 in NYC. Prosecutors allege Diddy ran a 2-decade abuse ring behind the façade of his music empire.\n\nCharges stem from 2004–2024 and include allegations of transporting women across state lines for violent, recorded sex acts with male workers, called “freak-offs.”\n\nEvidence will include graphic videos, photos, and disturbing testimony. Diddy has pleaded not guilty.\n\nSource: Reuters",
+    "replyCount": 46,
+    "retweetCount": 45,
+    "likeCount": 155,
+    "quoteCount": 6,
+    "bookmarkedCount": 8,
+    "conversationId": 1911089427205824848,
+    "conversationIdStr": "1911089427205824848",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GoWJCQ6XsAAiuxF.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 176644,
+    "retweetedTweet": null,
+    "quotedTweet": {
+      "id": 1910494255103045912,
+      "id_str": "1910494255103045912",
+      "url": "https://x.com/MarioNawfal/status/1910494255103045912",
+      "date": "2025-04-11 00:45:00+00:00",
+      "user": {
+        "id": 1319287761048723458,
+        "id_str": "1319287761048723458",
+        "url": "https://x.com/MarioNawfal",
+        "username": "MarioNawfal",
+        "displayname": "Mario Nawfal",
+        "rawDescription": "Largest Show on X | Founder @ibcgroupio | Investor 600+ Startups",
+        "created": "2020-10-22 14:42:25+00:00",
+        "followersCount": 2219217,
+        "friendsCount": 47141,
+        "statusesCount": 131264,
+        "favouritesCount": 152361,
+        "listedCount": 9499,
+        "mediaCount": 99628,
+        "location": "",
+        "profileImageUrl": "https://pbs.twimg.com/profile_images/1670905743619268609/pYItlWat_normal.jpg",
+        "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1319287761048723458/1743760560",
+        "protected": null,
+        "verified": false,
+        "blue": true,
+        "blueType": null,
+        "descriptionLinks": [
+          {
+            "url": "https://roundtable.live",
+            "text": "roundtable.live",
+            "tcourl": "https://t.co/Lru9VAixI8"
+          }
+        ],
+        "pinnedIds": [
+          1918037711245676617
+        ],
+        "_type": "snscrape.modules.twitter.User"
+      },
+      "lang": "en",
+      "rawContent": "🚨🇺🇸 DIDDY INDICTED—ALLEGEDLY DANGLED WOMAN OFF HOTEL BALCONY\n\nRap mogul hit with five-count federal indictment - turns out \"Bad Boy for Life\" wasn't just a catchy slogan.\n\nFeds allege Diddy dangled woman over hotel balcony – apparently his idea of \"taking relationships to new heights.\" \n\nProsecutors described drug-fueled \"freak offs\" where employees were coerced to perform.\n\nCombs pleaded not guilty, but his \"Can't Nobody Hold Me Down\" defense might not work this time.\n\nSource: NBC",
+      "replyCount": 54,
+      "retweetCount": 60,
+      "likeCount": 199,
+      "quoteCount": 9,
+      "bookmarkedCount": 14,
+      "conversationId": 1910494255103045912,
+      "conversationIdStr": "1910494255103045912",
+      "hashtags": [],
+      "cashtags": [],
+      "mentionedUsers": [],
+      "links": [],
+      "media": {
+        "photos": [
+          {
+            "url": "https://pbs.twimg.com/media/GoNsbUGXMAAXEly.jpg"
+          }
+        ],
+        "videos": [],
+        "animated": []
+      },
+      "viewCount": 139058,
+      "retweetedTweet": null,
+      "quotedTweet": null,
+      "place": null,
+      "coordinates": null,
+      "inReplyToTweetId": null,
+      "inReplyToTweetIdStr": null,
+      "inReplyToUser": null,
+      "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+      "sourceUrl": "http://twitter.com",
+      "sourceLabel": "Twitter Web Client",
+      "card": null,
+      "possibly_sensitive": false,
+      "_type": "snscrape.modules.twitter.Tweet"
+    },
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "sourceUrl": "http://twitter.com",
+    "sourceLabel": "Twitter Web Client",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1910494255103045912,
+    "id_str": "1910494255103045912",
+    "url": "https://x.com/MarioNawfal/status/1910494255103045912",
+    "date": "2025-04-11 00:45:00+00:00",
+    "user": {
+      "id": 1319287761048723458,
+      "id_str": "1319287761048723458",
+      "url": "https://x.com/MarioNawfal",
+      "username": "MarioNawfal",
+      "displayname": "Mario Nawfal",
+      "rawDescription": "Largest Show on X | Founder @ibcgroupio | Investor 600+ Startups",
+      "created": "2020-10-22 14:42:25+00:00",
+      "followersCount": 2219217,
+      "friendsCount": 47141,
+      "statusesCount": 131264,
+      "favouritesCount": 152361,
+      "listedCount": 9499,
+      "mediaCount": 99628,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1670905743619268609/pYItlWat_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1319287761048723458/1743760560",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://roundtable.live",
+          "text": "roundtable.live",
+          "tcourl": "https://t.co/Lru9VAixI8"
+        }
+      ],
+      "pinnedIds": [
+        1918037711245676617
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "🚨🇺🇸 DIDDY INDICTED—ALLEGEDLY DANGLED WOMAN OFF HOTEL BALCONY\n\nRap mogul hit with five-count federal indictment - turns out \"Bad Boy for Life\" wasn't just a catchy slogan.\n\nFeds allege Diddy dangled woman over hotel balcony – apparently his idea of \"taking relationships to new heights.\" \n\nProsecutors described drug-fueled \"freak offs\" where employees were coerced to perform.\n\nCombs pleaded not guilty, but his \"Can't Nobody Hold Me Down\" defense might not work this time.\n\nSource: NBC",
+    "replyCount": 54,
+    "retweetCount": 60,
+    "likeCount": 199,
+    "quoteCount": 9,
+    "bookmarkedCount": 14,
+    "conversationId": 1910494255103045912,
+    "conversationIdStr": "1910494255103045912",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GoNsbUGXMAAXEly.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 139058,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+    "sourceUrl": "http://twitter.com",
+    "sourceLabel": "Twitter Web Client",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1917962379406540828,
+    "id_str": "1917962379406540828",
+    "url": "https://x.com/sabreaxe/status/1917962379406540828",
+    "date": "2025-05-01 15:20:39+00:00",
+    "user": {
+      "id": 222235384,
+      "id_str": "222235384",
+      "url": "https://x.com/sabreaxe",
+      "username": "sabreaxe",
+      "displayname": "Pat Murphy",
+      "rawDescription": "Christ is King. Unlearn the lies. Grandpa(4X). Guitar player 46yrs.",
+      "created": "2010-12-02 20:58:44+00:00",
+      "followersCount": 33294,
+      "friendsCount": 8,
+      "statusesCount": 73294,
+      "favouritesCount": 35225,
+      "listedCount": 111,
+      "mediaCount": 33062,
+      "location": "Massachusetts",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1524536650134654976/FNBBAUnW_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/222235384/1604421535",
+      "protected": null,
+      "verified": false,
+      "blue": false,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Diddy trial is cabal orchestrated theater. FICTION. (((they))) know the intelligence level of the population. (((they))) know how incredibly easy it is to fool you. https://t.co/4xnsjXDN3L",
+    "replyCount": 11,
+    "retweetCount": 56,
+    "likeCount": 201,
+    "quoteCount": 4,
+    "bookmarkedCount": 18,
+    "conversationId": 1917962379406540828,
+    "conversationIdStr": "1917962379406540828",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp34TMGWgAAkz_R.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 7254,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1916136415017975823,
+    "id_str": "1916136415017975823",
+    "url": "https://x.com/sxdoc/status/1916136415017975823",
+    "date": "2025-04-26 14:24:56+00:00",
+    "user": {
+      "id": 2256965582,
+      "id_str": "2256965582",
+      "url": "https://x.com/sxdoc",
+      "username": "sxdoc",
+      "displayname": "TRUTH NOW ⭐️⭐️⭐️🗽 🎺",
+      "rawDescription": "FB @GenFlynn @paulsperry_ @mrddmia @sidneypowell1 https://t.co/g7U0RF1An0 MY POSTS https://t.co/UnGioScxWm",
+      "created": "2013-12-21 21:47:59+00:00",
+      "followersCount": 233771,
+      "friendsCount": 218556,
+      "statusesCount": 645728,
+      "favouritesCount": 144832,
+      "listedCount": 675,
+      "mediaCount": 15342,
+      "location": "USA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1816171747177017344/KmC1PCkp_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2256965582/1721905943",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://peaceofheaven.life/sharleta-bassett/",
+          "text": "peaceofheaven.life/sharleta-basse…",
+          "tcourl": "https://t.co/g7U0RF1An0"
+        },
+        {
+          "url": "https://Twitter.com/search?q=from:@sxdoc/exclude:replies",
+          "text": "Twitter.com/search?q=from:…",
+          "tcourl": "https://t.co/UnGioScxWm"
+        }
+      ],
+      "pinnedIds": [
+        1917947901399224436
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "DIDDY TRIAL STARTS MAY 5? \n\nMany same people at DIDDY Freak out parties were at Epstein island raping girls and boys! HOW WILL DOJ EXPOSURE HAPPEN? \n\nLawyers reveal they’ll claim Sean ‘Diddy’ Combs was a ‘swinger,’ not a rapist – as he turns down plea deal from feds.\n\nDiddy faces up to life in prison.\nFederal prosecutors have said in court papers that witnesses taking the stand at an eight- to 10-week trial will give “graphic testimony” about “years’ worth of beatings, drug-fueled coercive sex marathons, and multiple rapes.”\n\nhttps://t.co/DNqrDqHZS8",
+    "replyCount": 29,
+    "retweetCount": 129,
+    "likeCount": 152,
+    "quoteCount": 7,
+    "bookmarkedCount": 5,
+    "conversationId": 1916136415017975823,
+    "conversationIdStr": "1916136415017975823",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [
+      {
+        "url": "https://nypost.com/2025/04/25/us-news/lawyers-reveal-theyll-claim-sean-diddy-combs-was-a-swinger-not-a-rapist-as-he-turns-down-plea-deal-from-feds/",
+        "text": "nypost.com/2025/04/25/us-…",
+        "tcourl": "https://t.co/DNqrDqHZS8"
+      }
+    ],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gpd76DvWIAEeS2J.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 13204,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1912072636613394728,
+    "id_str": "1912072636613394728",
+    "url": "https://x.com/Florenpatriotaq/status/1912072636613394728",
+    "date": "2025-04-15 09:16:55+00:00",
+    "user": {
+      "id": 1582476527131799552,
+      "id_str": "1582476527131799552",
+      "url": "https://x.com/Florenpatriotaq",
+      "username": "Florenpatriotaq",
+      "displayname": "Florentin Patriota Q",
+      "rawDescription": "",
+      "created": "2022-10-18 21:00:02+00:00",
+      "followersCount": 69794,
+      "friendsCount": 1086,
+      "statusesCount": 1463,
+      "favouritesCount": 0,
+      "listedCount": 97,
+      "mediaCount": 1320,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1740179823195041792/vknkgoO-_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1582476527131799552/1703726175",
+      "protected": null,
+      "verified": false,
+      "blue": false,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Diddy's trial begins May 5 5-5 5:5 It is a code used by military forces around the world to communicate the start of an operation https://t.co/Ky0ydq3Dug",
+    "replyCount": 8,
+    "retweetCount": 59,
+    "likeCount": 155,
+    "quoteCount": 6,
+    "bookmarkedCount": 13,
+    "conversationId": 1912072636613394728,
+    "conversationIdStr": "1912072636613394728",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GokL7dCWoAAa0DJ.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 6428,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "sourceUrl": "http://twitter.com/download/android",
+    "sourceLabel": "Twitter for Android",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918360860080197797,
+    "id_str": "1918360860080197797",
+    "url": "https://x.com/corsaverse/status/1918360860080197797",
+    "date": "2025-05-02 17:44:05+00:00",
+    "user": {
+      "id": 1558946690421374976,
+      "id_str": "1558946690421374976",
+      "url": "https://x.com/corsaverse",
+      "username": "corsaverse",
+      "displayname": "Corsa",
+      "rawDescription": "Welcome to the Corsaverse  🫧                  Le podcast du peuple 🏴‍☠️",
+      "created": "2022-08-14 22:42:38+00:00",
+      "followersCount": 26,
+      "friendsCount": 30,
+      "statusesCount": 997,
+      "favouritesCount": 51,
+      "listedCount": 1,
+      "mediaCount": 627,
+      "location": "Belgique",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1759984195714125824/mSsz_4T8_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1558946690421374976/1662403334",
+      "protected": null,
+      "verified": false,
+      "blue": false,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1918042091307057279
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "fr",
+    "rawContent": "@FrenchRapUS Si vous voulez, on a tout résumé et c’est déjà dispo !! De son enfance à sa montée dans le hip-hop jusqu’aux accusations … \n\nPodcast sur Diddy, dispo sur YouTube (lien en commentaire) \n#diddy #proces #trial #diddytrial https://t.co/MQBqvZwYqc",
+    "replyCount": 2,
+    "retweetCount": 0,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "bookmarkedCount": 5,
+    "conversationId": 1918302470150996130,
+    "conversationIdStr": "1918302470150996130",
+    "hashtags": [
+      "diddy",
+      "proces",
+      "trial",
+      "diddytrial"
+    ],
+    "cashtags": [],
+    "mentionedUsers": [
+      {
+        "id": 1120750848404000769,
+        "id_str": "1120750848404000769",
+        "username": "FrenchRapUS",
+        "displayname": "FRENCHRAPUS 🇺🇸",
+        "_type": "snscrape.modules.twitter.UserRef"
+      }
+    ],
+    "links": [],
+    "media": {
+      "photos": [],
+      "videos": [
+        {
+          "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1918360741159084032/img/ckqagbjyki9wYEKt.jpg",
+          "variants": [
+            {
+              "contentType": "video/mp4",
+              "bitrate": 632000,
+              "url": "https://video.twimg.com/amplify_video/1918360741159084032/vid/avc1/320x568/OSQ2VVbS29dOW5hq.mp4?tag=14"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 950000,
+              "url": "https://video.twimg.com/amplify_video/1918360741159084032/vid/avc1/480x852/vL7RzLp6DTXnCuNR.mp4?tag=14"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/amplify_video/1918360741159084032/vid/avc1/720x1280/MjyfeCuZFKhZhwPR.mp4?tag=14"
+            }
+          ],
+          "duration": 91652,
+          "views": null
+        }
+      ],
+      "animated": []
+    },
+    "viewCount": 7957,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": 1918302470150996130,
+    "inReplyToTweetIdStr": "1918302470150996130",
+    "inReplyToUser": {
+      "id": 1120750848404000769,
+      "id_str": "1120750848404000769",
+      "username": "FrenchRapUS",
+      "displayname": "FRENCHRAPUS 🇺🇸",
+      "_type": "snscrape.modules.twitter.UserRef"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918060489558368333,
+    "id_str": "1918060489558368333",
+    "url": "https://x.com/WayneTechSPFX/status/1918060489558368333",
+    "date": "2025-05-01 21:50:31+00:00",
+    "user": {
+      "id": 425625674,
+      "id_str": "425625674",
+      "url": "https://x.com/WayneTechSPFX",
+      "username": "WayneTechSPFX",
+      "displayname": "WayneTech SPFX®️",
+      "rawDescription": "We specialize in sculpting, mold making, mask making, prosthetics, body armoring, costume design, tactical applications, and props. Former Private Investigator.",
+      "created": "2011-12-01 07:01:37+00:00",
+      "followersCount": 71981,
+      "friendsCount": 1143,
+      "statusesCount": 26746,
+      "favouritesCount": 28268,
+      "listedCount": 192,
+      "mediaCount": 7759,
+      "location": "Cleveland, Ohio",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1622852600453378048/2RYjv6xz_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/425625674/1732925627",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.etsy.com/shop/WayneTechSPFX",
+          "text": "etsy.com/shop/WayneTech…",
+          "tcourl": "https://t.co/7FEj9cgQDe"
+        }
+      ],
+      "pinnedIds": [
+        1640547984726192128
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "🚨Diddy's trial set to begin May 5th. \n\nAre you ready for the fireworks? \n\nDiscovery is a MF. https://t.co/a5HqjjcXXx",
+    "replyCount": 6,
+    "retweetCount": 15,
+    "likeCount": 55,
+    "quoteCount": 1,
+    "bookmarkedCount": 5,
+    "conversationId": 1918060489558368333,
+    "conversationIdStr": "1918060489558368333",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [],
+      "videos": [
+        {
+          "thumbnailUrl": "https://pbs.twimg.com/ext_tw_video_thumb/1918060431353991169/pu/img/37OYAQrcv9ID_-Ig.jpg",
+          "variants": [
+            {
+              "contentType": "video/mp4",
+              "bitrate": 632000,
+              "url": "https://video.twimg.com/ext_tw_video/1918060431353991169/pu/vid/avc1/320x322/NF7txVIT94DWxFQM.mp4?tag=12"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 950000,
+              "url": "https://video.twimg.com/ext_tw_video/1918060431353991169/pu/vid/avc1/480x484/WGSlr5oX2SeY0ydF.mp4?tag=12"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/ext_tw_video/1918060431353991169/pu/vid/avc1/720x728/FZwoN5sBlJxy66mC.mp4?tag=12"
+            }
+          ],
+          "duration": 154830,
+          "views": null
+        }
+      ],
+      "animated": []
+    },
+    "viewCount": 2486,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+    "sourceUrl": "http://twitter.com/download/android",
+    "sourceLabel": "Twitter for Android",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1915866253245427772,
+    "id_str": "1915866253245427772",
+    "url": "https://x.com/KarluskaP/status/1915866253245427772",
+    "date": "2025-04-25 20:31:24+00:00",
+    "user": {
+      "id": 1199522589573554176,
+      "id_str": "1199522589573554176",
+      "url": "https://x.com/KarluskaP",
+      "username": "KarluskaP",
+      "displayname": "Karli Bonne’ 🇺🇸",
+      "rawDescription": "Keep laughing at them it’s like Holy Water on a demon- The Real Midnight Rider- all other accounts are fake and selling fake crypto",
+      "created": "2019-11-27 02:57:42+00:00",
+      "followersCount": 342142,
+      "friendsCount": 10049,
+      "statusesCount": 71459,
+      "favouritesCount": 226810,
+      "listedCount": 869,
+      "mediaCount": 47431,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1820801096589221889/ptcYekSS_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1199522589573554176/1735050992",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://t.me/realKarliBonne",
+          "text": "t.me/realKarliBonne",
+          "tcourl": "https://t.co/l6cd8kaTfM"
+        }
+      ],
+      "pinnedIds": [
+        1813625929416970271
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Diddy faces up to life in prison.\nFederal prosecutors have said in court papers that witnesses taking the stand at an eight- to 10-week trial will give “graphic testimony” about “years’ worth of beatings, drug-fueled coercive sex marathons, and multiple rapes.”\n\nhttps://t.co/4c2eftYB0i",
+    "replyCount": 25,
+    "retweetCount": 167,
+    "likeCount": 333,
+    "quoteCount": 7,
+    "bookmarkedCount": 14,
+    "conversationId": 1915866253245427772,
+    "conversationIdStr": "1915866253245427772",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [
+      {
+        "url": "https://nypost.com/2025/04/25/us-news/lawyers-reveal-theyll-claim-sean-diddy-combs-was-a-swinger-not-a-rapist-as-he-turns-down-plea-deal-from-feds/",
+        "text": "nypost.com/2025/04/25/us-…",
+        "tcourl": "https://t.co/4c2eftYB0i"
+      }
+    ],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GpaGNARWAAAQVNn.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 12584,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1917049932370088261,
+    "id_str": "1917049932370088261",
+    "url": "https://x.com/diddysolcto/status/1917049932370088261",
+    "date": "2025-04-29 02:54:55+00:00",
+    "user": {
+      "id": 1377907070737936384,
+      "id_str": "1377907070737936384",
+      "url": "https://x.com/diddysolcto",
+      "username": "diddysolcto",
+      "displayname": "DIDDY CTO",
+      "rawDescription": "All eyes are on the trial.\nCA: 5QQRKwnJsoy5MHbYvUe1zgtNUGhesQ5SErQvnAZgpump\nTG: https://t.co/6XfUVQ8j25",
+      "created": "2021-04-02 08:53:47+00:00",
+      "followersCount": 60,
+      "friendsCount": 134,
+      "statusesCount": 74,
+      "favouritesCount": 138,
+      "listedCount": 1,
+      "mediaCount": 21,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1911221707957747712/eCjiZZFn_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1377907070737936384/1744505740",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://t.me/DiddyCto2025",
+          "text": "t.me/DiddyCto2025",
+          "tcourl": "https://t.co/6XfUVQ8j25"
+        },
+        {
+          "url": "https://www.diddycto.com/",
+          "text": "diddycto.com",
+          "tcourl": "https://t.co/k3yRv1fsba"
+        }
+      ],
+      "pinnedIds": [
+        1915079320550473968
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Seven days 'til the trial. \n#Diddy @Diddy https://t.co/pGPrdeXgMb",
+    "replyCount": 4,
+    "retweetCount": 6,
+    "likeCount": 10,
+    "quoteCount": 0,
+    "bookmarkedCount": 3,
+    "conversationId": 1917049932370088261,
+    "conversationIdStr": "1917049932370088261",
+    "hashtags": [
+      "Diddy"
+    ],
+    "cashtags": [],
+    "mentionedUsers": [
+      {
+        "id": 18220175,
+        "id_str": "18220175",
+        "username": "Diddy",
+        "displayname": "LOVE",
+        "_type": "snscrape.modules.twitter.UserRef"
+      }
+    ],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gpq6MEPbEAIVcTM.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 230,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1917654263087444372,
+    "id_str": "1917654263087444372",
+    "url": "https://x.com/MeritStreet/status/1917654263087444372",
+    "date": "2025-04-30 18:56:19+00:00",
+    "user": {
+      "id": 1653508662843912197,
+      "id_str": "1653508662843912197",
+      "url": "https://x.com/MeritStreet",
+      "username": "MeritStreet",
+      "displayname": "Merit Street",
+      "rawDescription": "Founded by @drphil #MeritStreet provides clarity and solutions on the issues and topics that matter most to Americans. Download Merit+ to stream FREE now 📺",
+      "created": "2023-05-02 21:16:13+00:00",
+      "followersCount": 21316,
+      "friendsCount": 30,
+      "statusesCount": 3729,
+      "favouritesCount": 222,
+      "listedCount": 42,
+      "mediaCount": 2278,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1790119951363084288/_7yUwNc4_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1653508662843912197/1732201151",
+      "protected": null,
+      "verified": false,
+      "blue": false,
+      "blueType": "Business",
+      "descriptionLinks": [
+        {
+          "url": "https://share2.meritplus.com/U6co/yk5mdwbu",
+          "text": "share2.meritplus.com/U6co/yk5mdwbu",
+          "tcourl": "https://t.co/Biwv4E4cR2"
+        }
+      ],
+      "pinnedIds": [
+        1917998738628649073
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Diddy's legal team claims he lacked the mental capacity to commit alleged sex crimes due to drug and alcohol use—just days before trial. Prosecutors say it’s a last-minute tactic to avoid accountability. Trial begins May 5th. https://t.co/lk9QvwB9ch",
+    "replyCount": 3,
+    "retweetCount": 13,
+    "likeCount": 20,
+    "quoteCount": 3,
+    "bookmarkedCount": 4,
+    "conversationId": 1917654263087444372,
+    "conversationIdStr": "1917654263087444372",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [],
+      "videos": [
+        {
+          "thumbnailUrl": "https://pbs.twimg.com/amplify_video_thumb/1917653888154353664/img/dKxSlukKno595PhT.jpg",
+          "variants": [
+            {
+              "contentType": "video/mp4",
+              "bitrate": 288000,
+              "url": "https://video.twimg.com/amplify_video/1917653888154353664/vid/avc1/480x270/nP6Oi9YraYGlSvIc.mp4?tag=16"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 832000,
+              "url": "https://video.twimg.com/amplify_video/1917653888154353664/vid/avc1/640x360/SNEF-67Gvd-z2t-u.mp4?tag=16"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 2176000,
+              "url": "https://video.twimg.com/amplify_video/1917653888154353664/vid/avc1/1280x720/hJgovPC9jo1V1Bbn.mp4?tag=16"
+            },
+            {
+              "contentType": "video/mp4",
+              "bitrate": 10368000,
+              "url": "https://video.twimg.com/amplify_video/1917653888154353664/vid/avc1/1920x1080/k8KXBdZlWPzfZd8T.mp4?tag=16"
+            }
+          ],
+          "duration": 214528,
+          "views": null
+        }
+      ],
+      "animated": []
+    },
+    "viewCount": 3924,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1916941153879941331,
+    "id_str": "1916941153879941331",
+    "url": "https://x.com/ThyOpulencee/status/1916941153879941331",
+    "date": "2025-04-28 19:42:40+00:00",
+    "user": {
+      "id": 1779963942179147776,
+      "id_str": "1779963942179147776",
+      "url": "https://x.com/ThyOpulencee",
+      "username": "ThyOpulencee",
+      "displayname": "Opulence",
+      "rawDescription": "RTs & Likes ≠ Endorsement. World news & current events. Analysis ≠ Advocacy",
+      "created": "2024-04-15 20:04:24+00:00",
+      "followersCount": 1805,
+      "friendsCount": 466,
+      "statusesCount": 4802,
+      "favouritesCount": 2114,
+      "listedCount": 6,
+      "mediaCount": 230,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1872465853389631488/YdO1J0gj_normal.jpg",
+      "profileBannerUrl": null,
+      "protected": null,
+      "verified": false,
+      "blue": false,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1914416605968347145
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Diddy’s trial starts on May 5th? What a distraction &amp; decoy. It would be a great day to revalue XRP 😉 https://t.co/yfnOy0E5Ju",
+    "replyCount": 2,
+    "retweetCount": 3,
+    "likeCount": 52,
+    "quoteCount": 1,
+    "bookmarkedCount": 2,
+    "conversationId": 1916941153879941331,
+    "conversationIdStr": "1916941153879941331",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GppX0UIWkAA-JWP.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 1657,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1917529986069569913,
+    "id_str": "1917529986069569913",
+    "url": "https://x.com/thesheikhcrypto/status/1917529986069569913",
+    "date": "2025-04-30 10:42:29+00:00",
+    "user": {
+      "id": 1448930234221400064,
+      "id_str": "1448930234221400064",
+      "url": "https://x.com/thesheikhcrypto",
+      "username": "thesheikhcrypto",
+      "displayname": "Crypto Sheikh",
+      "rawDescription": "All Crypto 💰🪙  \n\nI know a camel, he gives me alpha 🐪 📈 \n\nDrop a follow: https://t.co/1J2SjnD5Uk\n\n📍 DUBAI 🇦🇪🌴",
+      "created": "2021-10-15 08:34:37+00:00",
+      "followersCount": 7916,
+      "friendsCount": 372,
+      "statusesCount": 6297,
+      "favouritesCount": 8720,
+      "listedCount": 12,
+      "mediaCount": 1639,
+      "location": "Zabeel Palace Dubai",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1839270100324495360/tGEcbo2N_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1448930234221400064/1724953971",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://www.youtube.com/channel/UCz2T-jOB5EbG8K13i31FQQw/",
+          "text": "youtube.com/channel/UCz2T-…",
+          "tcourl": "https://t.co/1J2SjnD5Uk"
+        },
+        {
+          "url": "https://linktr.ee/therealcryptosheikh",
+          "text": "linktr.ee/therealcryptos…",
+          "tcourl": "https://t.co/tTFqPxc5zl"
+        }
+      ],
+      "pinnedIds": [
+        1896940045703254511
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Got more $diddy, diddy trial starts in 5days and we’ve got a $diddy token just sub 100k\n\nBest get positioned early 🐪\n\nAnD1WJv2KLxBmzDEpHdxnKizeDTrtRmu4YuLAYZxihKE https://t.co/xpfFK4gvGg",
+    "replyCount": 10,
+    "retweetCount": 6,
+    "likeCount": 15,
+    "quoteCount": 0,
+    "bookmarkedCount": 0,
+    "conversationId": 1917529986069569913,
+    "conversationIdStr": "1917529986069569913",
+    "hashtags": [],
+    "cashtags": [
+      "diddy",
+      "diddy"
+    ],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GpxqAj-XsAAm_Hy.jpg"
+        },
+        {
+          "url": "https://pbs.twimg.com/media/GpxqNJKXgAAJxRW.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 907,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "sourceUrl": "https://mobile.twitter.com",
+    "sourceLabel": "Twitter Web App",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918040138430726165,
+    "id_str": "1918040138430726165",
+    "url": "https://x.com/NicoleTarinaM2/status/1918040138430726165",
+    "date": "2025-05-01 20:29:39+00:00",
+    "user": {
+      "id": 1642921786441363458,
+      "id_str": "1642921786441363458",
+      "url": "https://x.com/NicoleTarinaM2",
+      "username": "NicoleTarinaM2",
+      "displayname": "NicoleTarinaM2",
+      "rawDescription": "“Jesus is my savior, Trump is my President!” Let’s MAGA! 💃😁🇺🇸",
+      "created": "2023-04-03 16:07:51+00:00",
+      "followersCount": 2322,
+      "friendsCount": 1026,
+      "statusesCount": 60355,
+      "favouritesCount": 60930,
+      "listedCount": 0,
+      "mediaCount": 17320,
+      "location": "The Rotten Apple 🍎",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1737217322912239616/VUsBpqFp_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1642921786441363458/1731875401",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "https://truthsocial.com/@NicoleTarinaM",
+          "text": "truthsocial.com/@NicoleTarinaM",
+          "tcourl": "https://t.co/kslCMuwopi"
+        }
+      ],
+      "pinnedIds": [
+        1793824136474833049
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "Sean 'Diddy' Combs rejects plea deal ahead of sex trafficking trial:\n\nSean \"Diddy\" Combs on Thursday formally rejected the government's offer to plead guilty and spare himself the possibility of a prolonged prison sentence.\n\n\"Yes I do, your honor,\" Combs said after Judge Arun Subramanian asked him whether he rejected the offer federal prosecutors made.",
+    "replyCount": 2,
+    "retweetCount": 16,
+    "likeCount": 26,
+    "quoteCount": 0,
+    "bookmarkedCount": 0,
+    "conversationId": 1918040138430726165,
+    "conversationIdStr": "1918040138430726165",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp4_VzLXAAAq0Ar.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 482,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918294832549904393,
+    "id_str": "1918294832549904393",
+    "url": "https://x.com/cryptoparty777/status/1918294832549904393",
+    "date": "2025-05-02 13:21:42+00:00",
+    "user": {
+      "id": 1749577465058480128,
+      "id_str": "1749577465058480128",
+      "url": "https://x.com/cryptoparty777",
+      "username": "cryptoparty777",
+      "displayname": "party",
+      "rawDescription": "what?",
+      "created": "2024-01-22 23:39:32+00:00",
+      "followersCount": 110,
+      "friendsCount": 732,
+      "statusesCount": 3601,
+      "favouritesCount": 2184,
+      "listedCount": 1,
+      "mediaCount": 716,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1906688205388206080/rJq-W791_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1749577465058480128/1743424880",
+      "protected": null,
+      "verified": false,
+      "blue": false,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1867209791791157702
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "@Decu0x Buy every $DIDDY coin ahead of the trial https://t.co/8hauGkbzLR",
+    "replyCount": 1,
+    "retweetCount": 0,
+    "likeCount": 4,
+    "quoteCount": 0,
+    "bookmarkedCount": 0,
+    "conversationId": 1917968253344694660,
+    "conversationIdStr": "1917968253344694660",
+    "hashtags": [],
+    "cashtags": [
+      "DIDDY"
+    ],
+    "mentionedUsers": [
+      {
+        "id": 1476664459817070593,
+        "id_str": "1476664459817070593",
+        "username": "Decu0x",
+        "displayname": "Decu",
+        "_type": "snscrape.modules.twitter.UserRef"
+      }
+    ],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp8m-zxWQAEDzwW.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 138,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": 1917968253344694660,
+    "inReplyToTweetIdStr": "1917968253344694660",
+    "inReplyToUser": {
+      "id": 1476664459817070593,
+      "id_str": "1476664459817070593",
+      "username": "Decu0x",
+      "displayname": "Decu",
+      "_type": "snscrape.modules.twitter.UserRef"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918639986275922267,
+    "id_str": "1918639986275922267",
+    "url": "https://x.com/warDaniel47/status/1918639986275922267",
+    "date": "2025-05-03 12:13:13+00:00",
+    "user": {
+      "id": 2240745937,
+      "id_str": "2240745937",
+      "url": "https://x.com/warDaniel47",
+      "username": "warDaniel47",
+      "displayname": "War Correspondent",
+      "rawDescription": "Information - War Irregular - Warfare Psychological - Warfare War Correspondent Daniel R. & Saskia B.",
+      "created": "2013-12-11 12:53:54+00:00",
+      "followersCount": 14948,
+      "friendsCount": 290,
+      "statusesCount": 1465,
+      "favouritesCount": 58,
+      "listedCount": 29,
+      "mediaCount": 1070,
+      "location": "",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1856425468339052545/6UjKaPC7_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/2240745937/1735855325",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1919023803994149222
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "One of the things that Anons do is recognize patterns. \n\nWhat is the pattern recently with the upcoming Diddy Trial?\n\nThe trial is to begin on: May 5th or 5/5 or 5:5 or 55, depending how you see it...\n\nSo Sean Diddy Combs, [who is 55 years old], trial begins on 5/5 in New York. \n\nRemember when Q told us to watch New York City [NYC] with a 5:5?\n\nAlso there is a May 5th Q Delta which  shows a Red Punisher Skull, [Diddy used Red Rooms in his sex parties].\n\nAnd of course we have the ultimate Q Post #55:\n\nLook to Twitter:\nExactly this: \"My fellow Americans, the Storm is upon us..\nGod bless.\n\nLet's see what happens on 5/5",
+    "replyCount": 10,
+    "retweetCount": 48,
+    "likeCount": 103,
+    "quoteCount": 5,
+    "bookmarkedCount": 13,
+    "conversationId": 1918639986275922267,
+    "conversationIdStr": "1918639986275922267",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/GqBg5NCWQAAd9_i.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 5176,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1917770909794070568,
+    "id_str": "1917770909794070568",
+    "url": "https://x.com/atndisorde38643/status/1917770909794070568",
+    "date": "2025-05-01 02:39:50+00:00",
+    "user": {
+      "id": 1646190252413927448,
+      "id_str": "1646190252413927448",
+      "url": "https://x.com/atndisorde38643",
+      "username": "atndisorde38643",
+      "displayname": "Attention Disorder",
+      "rawDescription": "Let's see how long I'm on. Married, God, Family, Country, patriot, Anon, adopted at birth, will fight for what's right. 6th account. RIP https://t.co/oJ2bXrx1Gr",
+      "created": "2023-04-12 16:35:25+00:00",
+      "followersCount": 2298,
+      "friendsCount": 2576,
+      "statusesCount": 21674,
+      "favouritesCount": 36531,
+      "listedCount": 14,
+      "mediaCount": 4477,
+      "location": "AZ",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1686754583274508288/nr73ICsG_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1646190252413927448/1681317460",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [
+        {
+          "url": "http://t.me/ArmyOfFrogs17",
+          "text": "t.me/ArmyOfFrogs17",
+          "tcourl": "https://t.co/oJ2bXrx1Gr"
+        }
+      ],
+      "pinnedIds": [],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "@AAnon55 Huh, Monday, 5:5 for the diddy trial start. https://t.co/yAIYBnxH4r",
+    "replyCount": 1,
+    "retweetCount": 0,
+    "likeCount": 6,
+    "quoteCount": 0,
+    "bookmarkedCount": 0,
+    "conversationId": 1917768764319228075,
+    "conversationIdStr": "1917768764319228075",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [
+      {
+        "id": 1040408524281573382,
+        "id_str": "1040408524281573382",
+        "username": "AAnon55",
+        "displayname": "𝙰𝚊𝚗𝚘𝚗",
+        "_type": "snscrape.modules.twitter.UserRef"
+      }
+    ],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp1KemeaYAInps3.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 144,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": 1917768764319228075,
+    "inReplyToTweetIdStr": "1917768764319228075",
+    "inReplyToUser": {
+      "id": 1040408524281573382,
+      "id_str": "1040408524281573382",
+      "username": "AAnon55",
+      "displayname": "𝙰𝚊𝚗𝚘𝚗",
+      "_type": "snscrape.modules.twitter.UserRef"
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  },
+  {
+    "id": 1918382651557175775,
+    "id_str": "1918382651557175775",
+    "url": "https://x.com/Inkdpixie1122/status/1918382651557175775",
+    "date": "2025-05-02 19:10:40+00:00",
+    "user": {
+      "id": 1646646249267789826,
+      "id_str": "1646646249267789826",
+      "url": "https://x.com/Inkdpixie1122",
+      "username": "Inkdpixie1122",
+      "displayname": " Inkdpixie ",
+      "rawDescription": "Disabled Vet🇺🇸 Ret. Neuro OR/ICU/Forensic RN• Heyoka empath•Psychic• Medium• Abductee• Ancestral Witch🔮 Live chat Mod for @OfficialJaskoYT",
+      "created": "2023-04-13 22:47:37+00:00",
+      "followersCount": 1307,
+      "friendsCount": 522,
+      "statusesCount": 15155,
+      "favouritesCount": 24591,
+      "listedCount": 9,
+      "mediaCount": 2614,
+      "location": "Salem, MA",
+      "profileImageUrl": "https://pbs.twimg.com/profile_images/1916573132833349632/L1S97boJ_normal.jpg",
+      "profileBannerUrl": "https://pbs.twimg.com/profile_banners/1646646249267789826/1745187895",
+      "protected": null,
+      "verified": false,
+      "blue": true,
+      "blueType": null,
+      "descriptionLinks": [],
+      "pinnedIds": [
+        1918384763301192059
+      ],
+      "_type": "snscrape.modules.twitter.User"
+    },
+    "lang": "en",
+    "rawContent": "The Diddy trial, that starts on Mon. May 5 in Manhattan with jury selection, WILL NOT be televised due to his (multiple) criminal charges. We will instead rely on reporters and courtroom artists for info &amp; visuals. \n\nDoes he look like Butthead to anyone else?  IYKYK https://t.co/RbWKMoz1fa",
+    "replyCount": 1,
+    "retweetCount": 0,
+    "likeCount": 3,
+    "quoteCount": 0,
+    "bookmarkedCount": 0,
+    "conversationId": 1918382651557175775,
+    "conversationIdStr": "1918382651557175775",
+    "hashtags": [],
+    "cashtags": [],
+    "mentionedUsers": [],
+    "links": [],
+    "media": {
+      "photos": [
+        {
+          "url": "https://pbs.twimg.com/media/Gp922e8XYAAwKD1.jpg"
+        }
+      ],
+      "videos": [],
+      "animated": []
+    },
+    "viewCount": 96,
+    "retweetedTweet": null,
+    "quotedTweet": null,
+    "place": null,
+    "coordinates": null,
+    "inReplyToTweetId": null,
+    "inReplyToTweetIdStr": null,
+    "inReplyToUser": null,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "sourceUrl": "http://twitter.com/download/iphone",
+    "sourceLabel": "Twitter for iPhone",
+    "card": null,
+    "possibly_sensitive": false,
+    "_type": "snscrape.modules.twitter.Tweet"
+  }
+]
